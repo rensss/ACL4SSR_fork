@@ -8,23 +8,28 @@ on:
 jobs:
   merge:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout
+      - name: Checkout with token
         uses: actions/checkout@v3
         with:
-          persist-credentials: false
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
 
       - name: Set Git Config
         run: |
           git config --global user.email "action@github.com"
           git config --global user.name "GitHub Action"
 
-      - name: Add upstream
+      - name: Add upstream and fetch
         run: |
           git remote add upstream https://github.com/ACL4SSR/ACL4SSR.git
           git fetch upstream
 
-      - name: Merge upstream
+      - name: Merge upstream/master into current branch
         run: |
           git merge upstream/master --allow-unrelated-histories -m "Merge upstream"
+
+      - name: Push to origin
+        run: |
           git push origin HEAD:master
