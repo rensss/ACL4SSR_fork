@@ -1,0 +1,30 @@
+name: Merge Upstream
+
+on:
+  schedule:
+    - cron: '0 2 * * *'  # 每天 UTC 时间 2 点运行（北京时间 10 点）
+  workflow_dispatch:
+
+jobs:
+  merge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          persist-credentials: false
+
+      - name: Set Git Config
+        run: |
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+
+      - name: Add upstream
+        run: |
+          git remote add upstream https://github.com/ACL4SSR/ACL4SSR.git
+          git fetch upstream
+
+      - name: Merge upstream
+        run: |
+          git merge upstream/master --allow-unrelated-histories -m "Merge upstream"
+          git push origin HEAD:master
