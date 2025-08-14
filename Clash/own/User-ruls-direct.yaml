@@ -1,0 +1,11 @@
+payload:
+# >> 全球直连
+  - IP-CIDR,43.239.121.0/24,no-resolve
+  - DOMAIN-KEYWORD,todesk
+  - DOMAIN-KEYWORD,imigrasi
+  - DOMAIN-SUFFIX,bytednsdoc.com
+  - DOMAIN-SUFFIX,itobsnssdk.com
+  - DOMAIN-SUFFIX,open-vsx.org
+  - DOMAIN-SUFFIX,byteoversea.com
+  - DOMAIN-SUFFIX,zijieapi.com
+  - DOMAIN,wtzw.com

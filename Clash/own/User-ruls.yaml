@@ -1,0 +1,16 @@
+payload:
+# >> 节点选择
+  - DOMAIN-SUFFIX,oracle.com
+  - DOMAIN-SUFFIX,recaptcha.net
+  - DOMAIN-SUFFIX,alipanso.com
+  - DOMAIN-SUFFIX,westx.seetacloud.com
+  - DOMAIN-SUFFIX,hopperapp.com
+  - DOMAIN-SUFFIX,registry-1.docker.io
+  - DOMAIN-SUFFIX,pixabay.com
+  - DOMAIN-SUFFIX,kuafuzys.com
+  - DOMAIN-SUFFIX,imagestool.com
+  - DOMAIN-SUFFIX,tampermonkey.net
+  - DOMAIN-SUFFIX,api2.safedk.com
+  - DOMAIN-SUFFIX,figma.com
+  - DOMAIN-SUFFIX,pub.dev
+  - DOMAIN-SUFFIX,moyu.im
