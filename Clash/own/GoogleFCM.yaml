@@ -1,4 +1,4 @@
-playload:
+payload:
 # >> GoogleFCM 谷歌推送服务
 # 数量：35条
   - DOMAIN,alt1-mtalk.google.com
