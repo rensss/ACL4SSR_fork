@@ -15,3 +15,6 @@ payload:
   - DOMAIN-SUFFIX,pub.dev
   - DOMAIN-SUFFIX,moyu.im
   - DOMAIN-SUFFIX,bwhstatus.com
+  - DOMAIN,cdn.cocoapods.org
+  - DOMAIN-KEYWORD,huggingface
+  - DOMAIN,dl.inmobi.com
