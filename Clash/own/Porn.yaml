@@ -1,7 +1,6 @@
 payload:
 # >> Porn
 # 数量：23条
-  - DOMAIN-KEYWORD,porn
   - DOMAIN-SUFFIX,8teenxxx.com
   - DOMAIN-SUFFIX,ahcdn.com
   - DOMAIN-SUFFIX,bcvcdn.com
@@ -24,3 +23,15 @@ payload:
   - DOMAIN-SUFFIX,xvideos-cdn.com
   - DOMAIN-SUFFIX,xvideos.com
   - DOMAIN-SUFFIX,ypncdn.com
+  - DOMAIN-SUFFIX,netflav.com
+  - DOMAIN-SUFFIX,javdb.com
+  - DOMAIN-SUFFIX,avdocker.com
+  - DOMAIN,cdn82.bestjavcdn.com
+  - DOMAIN-SUFFIX,buondua.com
+  - DOMAIN-KEYWORD,mushroomtrack.com
+  - DOMAIN-KEYWORD,alonestreaming.com
+  - DOMAIN-SUFFIX,jable.tv
+  - DOMAIN-KEYWORD,missav
+  - DOMAIN-KEYWORD,akamai-content-network
+  - DOMAIN-KEYWORD,porn
+  - DOMAIN-KEYWORD,jable
