@@ -1,6 +1,8 @@
 payload:
 # >> Google
 # 数量：24条
+  - DOMAIN-SUFFIX,google.com
+  - DOMAIN-SUFFIX,google.cn
   - DOMAIN-SUFFIX,1e100.net
   - DOMAIN-SUFFIX,2mdn.net
   - DOMAIN-SUFFIX,app-measurement.net
