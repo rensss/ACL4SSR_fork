@@ -26,17 +26,18 @@ payload:
   - DOMAIN-SUFFIX,amysecure.com
   - DOMAIN,clashofclans.fandom.com
   - DOMAIN,www.supersu.com
-  - DOMAIN,self.events.data.microsoft.com,节点选择
-  - DOMAIN-SUFFIX,z-lib.io,节点选择
-  - DOMAIN,www.trace.zip,节点选择
-  - DOMAIN,networks.sled.lol,节点选择
-  - DOMAIN-SUFFIX,wallhaven.cc,节点选择
-  - DOMAIN-SUFFIX,supercell.com,节点选择
-  - DOMAIN-SUFFIX,gamea.clashofclans.com,节点选择
-  - DOMAIN-SUFFIX,xn--4gq62f52gdss.xyz,节点选择
-  - DOMAIN-SUFFIX,一元机场.xyz,节点选择
-  - DOMAIN-SUFFIX,vultr.com,节点选择
-  - DOMAIN-SUFFIX,bitcomet.com,节点选择
-  - DOMAIN-SUFFIX,shop.sanfen.co,节点选择
-  - DOMAIN-SUFFIX,reddit.com,节点选择
-  - DOMAIN,api.msn.com,节点选择
+  - DOMAIN-SUFFIX,nxboom.com
+  - DOMAIN,self.events.data.microsoft.com
+  - DOMAIN-SUFFIX,z-lib.io
+  - DOMAIN,www.trace.zip
+  - DOMAIN,networks.sled.lol
+  - DOMAIN-SUFFIX,wallhaven.cc
+  - DOMAIN-SUFFIX,supercell.com
+  - DOMAIN-SUFFIX,gamea.clashofclans.com
+  - DOMAIN-SUFFIX,xn--4gq62f52gdss.xyz
+  - DOMAIN-SUFFIX,一元机场.xyz
+  - DOMAIN-SUFFIX,vultr.com
+  - DOMAIN-SUFFIX,bitcomet.com
+  - DOMAIN-SUFFIX,shop.sanfen.co
+  - DOMAIN-SUFFIX,reddit.com
+  - DOMAIN,api.msn.com
