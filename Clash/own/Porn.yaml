@@ -28,9 +28,12 @@ payload:
   - DOMAIN-SUFFIX,avdocker.com
   - DOMAIN,cdn82.bestjavcdn.com
   - DOMAIN-SUFFIX,buondua.com
-  - DOMAIN-KEYWORD,mushroomtrack.com
-  - DOMAIN-KEYWORD,alonestreaming.com
+  - DOMAIN-SUFFIX,mushroomtrack.com
+  - DOMAIN-SUFFIX,alonestreaming.com
   - DOMAIN-SUFFIX,jable.tv
+  - DOMAIN-SUFFIX,wnacg.com
+  - DOMAIN-SUFFIX,wnacg.org
+  - DOMAIN-SUFFIX,wnacg02.cc
   - DOMAIN-KEYWORD,missav
   - DOMAIN-KEYWORD,akamai-content-network
   - DOMAIN-KEYWORD,porn
