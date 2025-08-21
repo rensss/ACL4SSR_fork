@@ -18,3 +18,25 @@ payload:
   - DOMAIN,cdn.cocoapods.org
   - DOMAIN-KEYWORD,huggingface
   - DOMAIN,dl.inmobi.com
+  - DOMAIN-SUFFIX,gkd.li
+  - DOMAIN-SUFFIX,suno.ai
+  - DOMAIN-SUFFIX,v2rayssr.com
+  - DOMAIN-KEYWORD,gstatic
+  - DOMAIN-SUFFIX,amytele.net
+  - DOMAIN-SUFFIX,amysecure.com
+  - DOMAIN,clashofclans.fandom.com
+  - DOMAIN,www.supersu.com
+  - DOMAIN,self.events.data.microsoft.com,节点选择
+  - DOMAIN-SUFFIX,z-lib.io,节点选择
+  - DOMAIN,www.trace.zip,节点选择
+  - DOMAIN,networks.sled.lol,节点选择
+  - DOMAIN-SUFFIX,wallhaven.cc,节点选择
+  - DOMAIN-SUFFIX,supercell.com,节点选择
+  - DOMAIN-SUFFIX,gamea.clashofclans.com,节点选择
+  - DOMAIN-SUFFIX,xn--4gq62f52gdss.xyz,节点选择
+  - DOMAIN-SUFFIX,一元机场.xyz,节点选择
+  - DOMAIN-SUFFIX,vultr.com,节点选择
+  - DOMAIN-SUFFIX,bitcomet.com,节点选择
+  - DOMAIN-SUFFIX,shop.sanfen.co,节点选择
+  - DOMAIN-SUFFIX,reddit.com,节点选择
+  - DOMAIN,api.msn.com,节点选择

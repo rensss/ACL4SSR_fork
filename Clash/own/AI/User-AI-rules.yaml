@@ -1,0 +1,25 @@
+payload:
+# >> User-AI-rules
+# 数量：22条
+  - DOMAIN,th.bing.com,AI
+  - DOMAIN,www.bingapis.com,AI
+  - DOMAIN,sapphire.api.microsoftapp.net,AI
+  - DOMAIN,prod.rewardsplatform.microsoft.com,AI
+  - DOMAIN,c.clarity.ms,AI
+  - DOMAIN,c.bing.com,AI
+  - DOMAIN,sydney.bing.com,AI
+  - DOMAIN,www.clarity.ms,AI
+  - DOMAIN,p.clarity.ms,AI
+  - DOMAIN,dealczars.bing-shopping.microsoft-falcon.io,AI
+  - DOMAIN,shopping.bing-shopping.microsoft-falcon.io,AI
+  - DOMAIN,cdn.jsdelivr.net,AI
+  - DOMAIN,logincdn.msauth.net,AI
+  - DOMAIN,account.live.com,AI
+  - DOMAIN,acctcdn.msauth.net,AI
+  - DOMAIN,odc.officeapps.live.com,AI
+  - DOMAIN,substrate.office.com,AI
+  - DOMAIN,ssl.bing.com,AI
+  - DOMAIN,services.bingapis.com,AI
+  - DOMAIN,location.microsoft.com,AI
+  - DOMAIN,gateway.bingviz.microsoftapp.net,AI
+  - DOMAIN,in.appcenter.ms,AI
