@@ -43,7 +43,7 @@ payload:
   - DOMAIN,api.msn.com
   - DOMAIN,swap.pump.fun
   - DOMAIN,dexscreener.com
-  - DOMAIN,500px.com
+  - DOMAIN-SUFFIX,500px.com
   - DOMAIN,sanfen002.xyz
   - DOMAIN-KEYWORD,sanfen,节点选择
   - DOMAIN-KEYWORD,prompthero,节点选择
