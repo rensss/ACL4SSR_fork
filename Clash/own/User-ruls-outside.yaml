@@ -47,9 +47,10 @@ payload:
   - DOMAIN-SUFFIX,500px.org
   - DOMAIN-SUFFIX,500px.net
   - DOMAIN,sanfen002.xyz
-  - DOMAIN-KEYWORD,sanfen,节点选择
-  - DOMAIN-KEYWORD,prompthero,节点选择
-  - DOMAIN-KEYWORD,civitai,节点选择
-  - DOMAIN,api.fhjasokiwq.com,节点选择
-  - DOMAIN,sub1.smallstrawberry.com,节点选择
-  - DOMAIN-KEYWORD,paofusub,节点选择
+  - DOMAIN-SUFFIX,mp4fan.org
+  - DOMAIN-KEYWORD,sanfen
+  - DOMAIN-KEYWORD,prompthero
+  - DOMAIN-KEYWORD,civitai
+  - DOMAIN,api.fhjasokiwq.com
+  - DOMAIN,sub1.smallstrawberry.com
+  - DOMAIN-KEYWORD,paofusub
