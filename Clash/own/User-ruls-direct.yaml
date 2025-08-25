@@ -1,6 +1,5 @@
 payload:
 # >> 全球直连
-  - IP-CIDR,43.239.121.0/24,no-resolve
   - DOMAIN-KEYWORD,todesk
   - DOMAIN-KEYWORD,imigrasi
   - DOMAIN-SUFFIX,bytednsdoc.com
@@ -52,6 +51,7 @@ payload:
   - DOMAIN,tracking.miui.com
   - DOMAIN,app.adjust.com
   - DOMAIN,bdtj.tagtic.cn
+  - IP-CIDR,43.239.121.0/24,no-resolve
   - IP-CIDR,10.0.0.0/8,no-resolve
   - IP-CIDR,100.64.0.0/10,no-resolve
   - IP-CIDR,127.0.0.0/8,no-resolve
