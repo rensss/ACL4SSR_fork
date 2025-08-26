@@ -54,3 +54,4 @@ payload:
   - DOMAIN,api.fhjasokiwq.com
   - DOMAIN,sub1.smallstrawberry.com
   - DOMAIN-KEYWORD,paofusub
+  - DOMAIN-SUFFIX,www.engadget.com
