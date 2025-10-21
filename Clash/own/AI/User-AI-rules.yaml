@@ -1,6 +1,6 @@
 payload:
 # >> User-AI-rules
-# 数量：27条
+# 数量：28条
   - DOMAIN,th.bing.com
   - DOMAIN,www.bingapis.com
   - DOMAIN,sapphire.api.microsoftapp.net

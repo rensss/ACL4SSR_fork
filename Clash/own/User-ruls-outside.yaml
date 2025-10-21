@@ -55,3 +55,4 @@ payload:
   - DOMAIN,sub1.smallstrawberry.com
   - DOMAIN-KEYWORD,paofusub
   - DOMAIN-SUFFIX,engadget.com
+  - DOMAIN-SUFFIX,minepi.com
