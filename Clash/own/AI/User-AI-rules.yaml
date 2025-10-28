@@ -29,3 +29,4 @@ payload:
   - DOMAIN-SUFFIX,openaicomproductionae4b.blob.core.windows.net
   - DOMAIN-SUFFIX,production-openaicom-storage.azureedge.net
   - DOMAIN-SUFFIX,lmarena.ai
+  - DOMAIN-SUFFIX,hume.ai
