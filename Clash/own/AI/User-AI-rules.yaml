@@ -30,3 +30,4 @@ payload:
   - DOMAIN-SUFFIX,production-openaicom-storage.azureedge.net
   - DOMAIN-SUFFIX,lmarena.ai
   - DOMAIN-SUFFIX,soundverse.ai
+  - DOMAIN-SUFFIX,hume.ai
