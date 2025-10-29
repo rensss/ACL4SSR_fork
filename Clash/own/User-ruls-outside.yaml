@@ -39,7 +39,6 @@ payload:
   - DOMAIN-SUFFIX,vultr.com
   - DOMAIN-SUFFIX,bitcomet.com
   - DOMAIN-SUFFIX,shop.sanfen.co
-  - DOMAIN-SUFFIX,reddit.com
   - DOMAIN,api.msn.com
   - DOMAIN,swap.pump.fun
   - DOMAIN,dexscreener.com
