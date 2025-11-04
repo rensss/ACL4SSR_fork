@@ -1,6 +1,6 @@
 payload:
 # >> User-AI-rules
-# 数量：28条
+# 数量：34条
   - DOMAIN,th.bing.com
   - DOMAIN,www.bingapis.com
   - DOMAIN,sapphire.api.microsoftapp.net
@@ -35,3 +35,4 @@ payload:
   - DOMAIN-SUFFIX,kits.ai
   - DOMAIN-SUFFIX,controlla.xyz
   - DOMAIN-SUFFIX,myvocal.ai
+  - DOMAIN-SUFFIX,topmediai.com
