@@ -36,6 +36,7 @@ payload:
   - DOMAIN-SUFFIX,controlla.xyz
   - DOMAIN-SUFFIX,myvocal.ai
   - DOMAIN-SUFFIX,topmediai.com
+  - DOMAIN-SUFFIX,riskified.com
   - DOMAIN-SUFFIX,imyfone.com
   - DOMAIN,ai.meta.com
   - DOMAIN-KEYWORD,fbcdn
