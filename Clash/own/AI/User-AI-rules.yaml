@@ -38,6 +38,7 @@ payload:
   - DOMAIN-SUFFIX,topmediai.com
   - DOMAIN-SUFFIX,riskified.com
   - DOMAIN-SUFFIX,imyfone.com
+  - DOMAIN-SUFFIX,manus.im
   - DOMAIN,ai.meta.com
   - DOMAIN-KEYWORD,fbcdn
   - DOMAIN-SUFFIX,lmarena.ai
