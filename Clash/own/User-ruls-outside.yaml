@@ -60,3 +60,4 @@ payload:
   - DOMAIN-KEYWORD,liteapks
   - DOMAIN-SUFFIX,jsdelivr.net
   - DOMAIN-SUFFIX,slack.com
+  - DOMAIN-SUFFIX,lovart.ai
