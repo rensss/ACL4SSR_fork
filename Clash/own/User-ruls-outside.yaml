@@ -58,3 +58,6 @@ payload:
   - DOMAIN-SUFFIX,hlib.cc
   - DOMAIN,mavlcode.adpub.co
   - DOMAIN-KEYWORD,liteapks
+  - DOMAIN-SUFFIX,jsdelivr.net
+  - DOMAIN-SUFFIX,slack.com
+  - DOMAIN-SUFFIX,lovart.ai
