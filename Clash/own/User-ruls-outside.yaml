@@ -22,6 +22,7 @@ payload:
   - DOMAIN-SUFFIX,suno.ai
   - DOMAIN-SUFFIX,v2rayssr.com
   - DOMAIN-KEYWORD,gstatic
+  - DOMAIN-SUFFIX,amytele.co
   - DOMAIN-SUFFIX,amytele.net
   - DOMAIN-SUFFIX,amysecure.com
   - DOMAIN,clashofclans.fandom.com
