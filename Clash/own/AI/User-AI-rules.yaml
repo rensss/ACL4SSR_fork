@@ -46,3 +46,4 @@ payload:
   - DOMAIN-SUFFIX,weights.com
   - DOMAIN-SUFFIX,arena.ai
   - DOMAIN-SUFFIX,perplexity.ai
+  - DOMAIN-SUFFIX,openclaw.ai
