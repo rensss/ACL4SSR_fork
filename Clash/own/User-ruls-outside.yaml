@@ -68,3 +68,4 @@ payload:
   - DOMAIN-SUFFIX,nodejs.org
   - DOMAIN-SUFFIX,oyunfor.com
   - DOMAIN-SUFFIX,paytr.com
+  - DOMAIN,gpt.aide.freespaces.app
