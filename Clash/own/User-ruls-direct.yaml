@@ -663,6 +663,7 @@ payload:
   - DOMAIN-SUFFIX,zhuihd.com
   - DOMAIN-SUFFIX,smtp
   - DOMAIN-KEYWORD,aria2
+  - IP-CIDR,34.135.69.114/32,no-resolve
   - IP-CIDR,43.239.121.0/24,no-resolve
   - IP-CIDR,10.0.0.0/8,no-resolve
   - IP-CIDR,100.64.0.0/10,no-resolve
