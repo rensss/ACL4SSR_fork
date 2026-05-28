@@ -1,6 +1,7 @@
 payload:
 # >>
-  - DOMAIN-KEYWORD,todesk
+  - DOMAIN-SUFFIX,todesk.com
+  - DOMAIN-SUFFIX,todesk.cn
   - DOMAIN-KEYWORD,imigrasi
   - DOMAIN-SUFFIX,bytednsdoc.com
   - DOMAIN-SUFFIX,itobsnssdk.com
