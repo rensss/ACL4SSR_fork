@@ -70,3 +70,6 @@ payload:
   - DOMAIN-SUFFIX,paytr.com
   - DOMAIN,gpt.aide.freespaces.app
   - DOMAIN-SUFFIX,cryptomus.com
+  - DOMAIN-SUFFIX,pypi.org
+  - DOMAIN-SUFFIX,pythonhosted.org
+
