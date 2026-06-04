@@ -28,7 +28,20 @@ jobs:
 
       - name: Merge upstream/master into current branch
         run: |
-          git merge upstream/master --allow-unrelated-histories -m "Merge upstream"
+          # 1. 尝试以 --no-commit 方式进行合并
+          git merge upstream/master --allow-unrelated-histories --no-commit -m "Merge upstream" || {
+            echo "合并遇到冲突，尝试自动恢复或报错..."
+            exit 1
+          }
+          
+          # 2. 如果检测到有 .github/workflows/ 目录中的文件变动，则将其恢复为 HEAD 状态，避免因 GITHUB_TOKEN 无 workflow 权限而导致推送失败
+          if git diff --cached --name-only | grep -q "^\.github/workflows/"; then
+            echo "检测到 Upstream 更新了工作流文件！正在将其恢复为本地版本以避免推送权限错误..."
+            git checkout HEAD -- .github/workflows/
+          fi
+          
+          # 3. 提交合并
+          git commit -m "Merge upstream (automatically resolved and kept local workflows)" || echo "没有需要提交的变更"
 
       - name: Push to origin
         run: |
