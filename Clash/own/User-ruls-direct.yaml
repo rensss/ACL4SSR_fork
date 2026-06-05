@@ -1,5 +1,6 @@
 payload:
 # >>
+  - DOMAIN-SUFFIX,tweglobal-my.sharepoint.com
   - DOMAIN-SUFFIX,todesk.com
   - DOMAIN-SUFFIX,todesk.cn
   - DOMAIN-KEYWORD,imigrasi
