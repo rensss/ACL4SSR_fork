@@ -1,39 +1,37 @@
 payload:
-# >> Google
-# 数量：24条
-  - DOMAIN-SUFFIX,google.com
-  - DOMAIN-SUFFIX,google.cn
-  - DOMAIN-SUFFIX,1e100.net
-  - DOMAIN-SUFFIX,2mdn.net
-  - DOMAIN-SUFFIX,app-measurement.net
-  - DOMAIN-SUFFIX,g.co
-  - DOMAIN-SUFFIX,ggpht.com
-  - DOMAIN-SUFFIX,goo.gl
-  - DOMAIN-SUFFIX,googleapis.cn
-  - DOMAIN-SUFFIX,googleapis.com
-  - DOMAIN-SUFFIX,gstatic.cn
-  - DOMAIN-SUFFIX,gstatic.com
-  - DOMAIN-SUFFIX,gvt0.com
-  - DOMAIN-SUFFIX,gvt1.com
-  - DOMAIN-SUFFIX,gvt2.com
-  - DOMAIN-SUFFIX,gvt3.com
-  - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
-  - DOMAIN-SUFFIX,youtu.be
-  - DOMAIN-SUFFIX,youtube-nocookie.com
-  - DOMAIN-SUFFIX,youtube.com
-  - DOMAIN-SUFFIX,yt.be
-  - DOMAIN-SUFFIX,ytimg.com
-  - DOMAIN-KEYWORD,gmail
-  - DOMAIN-KEYWORD,google
-  - IP-CIDR,64.233.160.0/19,no-resolve
-  - IP-CIDR,66.102.0.0/20,no-resolve
-  - IP-CIDR,66.249.80.0/20,no-resolve
-  - IP-CIDR,72.14.192.0/18,no-resolve
-  - IP-CIDR,74.125.0.0/16,no-resolve
-  - IP-CIDR,108.177.0.0/16,no-resolve
-  - IP-CIDR,142.250.0.0/15,no-resolve
-  - IP-CIDR,172.217.0.0/16,no-resolve
-  - IP-CIDR,173.194.0.0/16,no-resolve
-  - IP-CIDR,209.85.128.0/17,no-resolve
-  - IP-CIDR,216.58.192.0/19,no-resolve
-  - IP-CIDR,216.239.32.0/19,no-resolve
+- DOMAIN-SUFFIX,google.com
+- DOMAIN-SUFFIX,google.cn
+- DOMAIN-SUFFIX,1e100.net
+- DOMAIN-SUFFIX,2mdn.net
+- DOMAIN-SUFFIX,app-measurement.net
+- DOMAIN-SUFFIX,g.co
+- DOMAIN-SUFFIX,ggpht.com
+- DOMAIN-SUFFIX,goo.gl
+- DOMAIN-SUFFIX,googleapis.cn
+- DOMAIN-SUFFIX,googleapis.com
+- DOMAIN-SUFFIX,gstatic.cn
+- DOMAIN-SUFFIX,gstatic.com
+- DOMAIN-SUFFIX,gvt0.com
+- DOMAIN-SUFFIX,gvt1.com
+- DOMAIN-SUFFIX,gvt2.com
+- DOMAIN-SUFFIX,gvt3.com
+- DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+- DOMAIN-SUFFIX,youtu.be
+- DOMAIN-SUFFIX,youtube-nocookie.com
+- DOMAIN-SUFFIX,youtube.com
+- DOMAIN-SUFFIX,yt.be
+- DOMAIN-SUFFIX,ytimg.com
+- DOMAIN-KEYWORD,gmail
+- DOMAIN-KEYWORD,google
+- IP-CIDR,64.233.160.0/19,no-resolve
+- IP-CIDR,66.102.0.0/20,no-resolve
+- IP-CIDR,66.249.80.0/20,no-resolve
+- IP-CIDR,72.14.192.0/18,no-resolve
+- IP-CIDR,74.125.0.0/16,no-resolve
+- IP-CIDR,108.177.0.0/16,no-resolve
+- IP-CIDR,142.250.0.0/15,no-resolve
+- IP-CIDR,172.217.0.0/16,no-resolve
+- IP-CIDR,173.194.0.0/16,no-resolve
+- IP-CIDR,209.85.128.0/17,no-resolve
+- IP-CIDR,216.58.192.0/19,no-resolve
+- IP-CIDR,216.239.32.0/19,no-resolve
