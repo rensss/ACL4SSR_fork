@@ -15,6 +15,7 @@ payload:
   - DOMAIN-SUFFIX,launchdarkly.com
   - DOMAIN-SUFFIX,livekit.cloud
   - DOMAIN-SUFFIX,oaistatic.com
+  - DOMAIN-SUFFIX,oaistatsig.com
   - DOMAIN-SUFFIX,oaiusercontent.com
   - DOMAIN-SUFFIX,observeit.net
   - DOMAIN-SUFFIX,openai.com
