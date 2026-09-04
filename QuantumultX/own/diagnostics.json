@@ -1,0 +1,3540 @@
+{
+  "diagnostics": [
+    {
+      "code": "option-removed",
+      "line": 42,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "AI/OpenAI.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 43,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "AI/OpenAI.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 44,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "AI/OpenAI.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 45,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "AI/OpenAI.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "unsupported-rule",
+      "line": 46,
+      "message": "IP-ASN has no supported Quantumult X equivalent.",
+      "path": "AI/OpenAI.yaml",
+      "rule_type": "IP-ASN",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 1013,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "AppPurification.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 1014,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "AppPurification.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 1015,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "AppPurification.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 1016,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "AppPurification.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 1017,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "AppPurification.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 1018,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "AppPurification.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 1019,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "AppPurification.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 1020,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "AppPurification.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 1021,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "AppPurification.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 1022,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "AppPurification.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 1023,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "AppPurification.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 1024,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "AppPurification.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 1025,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "AppPurification.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 1026,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "AppPurification.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 1027,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "AppPurification.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 1028,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "AppPurification.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 1029,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "AppPurification.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 1030,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "AppPurification.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 1031,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "AppPurification.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 21,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "Apple.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 22,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "Apple.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 23,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "Apple.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 24,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "Apple.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 25,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "Apple.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 26,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "Apple.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 27,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "Apple.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 28,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "Apple.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 29,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "Apple.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 30,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "Apple.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 12,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ChinaMedia.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 13,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ChinaMedia.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 14,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ChinaMedia.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 15,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ChinaMedia.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 16,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ChinaMedia.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 17,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ChinaMedia.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 21,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ChinaMedia.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 26,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "Google.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 27,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "Google.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 28,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "Google.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 29,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "Google.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 30,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "Google.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 31,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "Google.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 32,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "Google.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 33,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "Google.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 34,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "Google.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 35,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "Google.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 36,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "Google.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 37,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "Google.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 11,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "GoogleFCM.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 12,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "GoogleFCM.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 13,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "GoogleFCM.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 14,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "GoogleFCM.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 15,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "GoogleFCM.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 16,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "GoogleFCM.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 17,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "GoogleFCM.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 18,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "GoogleFCM.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 19,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "GoogleFCM.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 20,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "GoogleFCM.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 21,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "GoogleFCM.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 22,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "GoogleFCM.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 23,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "GoogleFCM.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 24,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "GoogleFCM.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 25,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "GoogleFCM.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 26,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "GoogleFCM.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 27,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "GoogleFCM.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 28,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "GoogleFCM.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 29,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "GoogleFCM.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 30,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "GoogleFCM.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 31,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "GoogleFCM.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 32,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "GoogleFCM.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 33,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "GoogleFCM.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 34,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "GoogleFCM.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 35,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "GoogleFCM.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 36,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "GoogleFCM.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 11,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "MyRules.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 203,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "MyRules.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 204,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "MyRules.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 205,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "MyRules.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 206,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "MyRules.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 207,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "MyRules.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 208,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "MyRules.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 209,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "MyRules.yaml",
+      "rule_type": "IP-CIDR6",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 210,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "MyRules.yaml",
+      "rule_type": "IP-CIDR6",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 211,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "MyRules.yaml",
+      "rule_type": "IP-CIDR6",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 212,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "MyRules.yaml",
+      "rule_type": "IP-CIDR6",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 172,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyMedia.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 173,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyMedia.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 174,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyMedia.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 175,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyMedia.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 176,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyMedia.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 177,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyMedia.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 178,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyMedia.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 179,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyMedia.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 180,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyMedia.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 181,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyMedia.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 182,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyMedia.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 183,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyMedia.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 184,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyMedia.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 185,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyMedia.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 186,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyMedia.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 187,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyMedia.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 188,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyMedia.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 189,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyMedia.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 190,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyMedia.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 191,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyMedia.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 9,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "Telegram.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 10,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "Telegram.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 11,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "Telegram.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 12,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "Telegram.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 13,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "Telegram.yaml",
+      "rule_type": "IP-CIDR6",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 14,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "Telegram.yaml",
+      "rule_type": "IP-CIDR6",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 15,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "Telegram.yaml",
+      "rule_type": "IP-CIDR6",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 654,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 655,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 656,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 657,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 658,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 659,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 660,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 661,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 662,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR6",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 663,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR6",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 664,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR6",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 665,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR6",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 666,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 667,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 668,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 669,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 670,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR6",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 671,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR6",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 672,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR6",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 673,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR6",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 674,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 675,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 676,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 677,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 678,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 679,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 680,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 681,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 682,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 683,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 684,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 685,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 686,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 687,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 688,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 689,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 690,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 691,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 692,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 693,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 694,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 695,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 696,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 697,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 698,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 699,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 700,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 701,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 702,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 703,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 704,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 705,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 706,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 707,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 708,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 709,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 710,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 711,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 712,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 713,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 714,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 715,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 716,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 717,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 718,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 719,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 720,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 721,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 722,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 723,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 724,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 725,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 726,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 727,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 728,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 729,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 730,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 731,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 732,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 733,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 734,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 735,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 736,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 737,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 738,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 739,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 740,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 741,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 742,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 743,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 744,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 745,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 746,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 747,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 748,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 749,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 750,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 751,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 752,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 753,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 754,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 755,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 756,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 757,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 758,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 759,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 760,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 761,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 762,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 763,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 764,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 765,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 766,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 767,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 768,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 769,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 770,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 771,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 772,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 773,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 774,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 775,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 776,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 777,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 778,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 779,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 780,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 781,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 782,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 783,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 784,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 785,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 786,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 787,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 788,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 789,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 790,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 791,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 792,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 793,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 794,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 795,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 796,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 797,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 798,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 799,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 800,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 801,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 802,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 803,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 804,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 805,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 806,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 807,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 808,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 809,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 810,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 811,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 812,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 813,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 814,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 815,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 816,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 817,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 818,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 819,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 820,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 821,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 822,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 823,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 824,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 825,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 826,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 827,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 828,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 829,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 830,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 831,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 832,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 833,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 834,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 835,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 836,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 837,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 838,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 839,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 840,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 841,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 842,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 843,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 844,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 845,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 846,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 847,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 848,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 849,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 850,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 851,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 852,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 853,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 854,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 855,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 856,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 857,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 858,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 859,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 860,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 861,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 862,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 863,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 864,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 865,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 866,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 867,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 868,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 869,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 870,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 871,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 872,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 873,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 874,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 875,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 876,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 877,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 878,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 879,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 880,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 881,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 882,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 883,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 884,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 885,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 886,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 887,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 888,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 889,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 890,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 891,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 892,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 893,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 894,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-direct.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 74,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-outside.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 75,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-outside.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 76,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-outside.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 77,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-outside.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 78,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-outside.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 79,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-outside.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 80,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-outside.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 81,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-outside.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 82,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-outside.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 83,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-outside.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 84,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-outside.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 85,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-outside.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 86,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-outside.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 87,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-outside.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 88,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-outside.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 89,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-outside.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 90,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-outside.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 91,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-outside.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 92,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-outside.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 93,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-outside.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 94,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-outside.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 95,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-outside.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 96,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-outside.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 97,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-outside.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 98,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-outside.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 99,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-outside.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 100,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-outside.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 101,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-outside.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 102,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-outside.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 103,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-outside.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 104,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-outside.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 105,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-outside.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 106,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-outside.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 107,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-outside.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 108,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-outside.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 109,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-outside.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 110,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-outside.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 111,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-outside.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 112,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-outside.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 113,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-outside.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 114,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-outside.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 115,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-outside.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 116,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-outside.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 117,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-outside.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 118,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-outside.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 119,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-outside.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 120,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-outside.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 121,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-outside.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 122,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-outside.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 123,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-outside.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 124,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-outside.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 125,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-outside.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 126,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-outside.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 127,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-outside.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 128,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-outside.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 129,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-outside.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 130,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-outside.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 131,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-outside.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 132,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-outside.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 133,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-outside.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 134,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-outside.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 135,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-outside.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 136,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-outside.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 137,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-outside.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 138,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-outside.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 139,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-outside.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 140,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-outside.yaml",
+      "rule_type": "IP-CIDR6",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 141,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-outside.yaml",
+      "rule_type": "IP-CIDR6",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 142,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-outside.yaml",
+      "rule_type": "IP-CIDR6",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 143,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-outside.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 144,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-outside.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 145,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-outside.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 146,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-outside.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 147,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-outside.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 148,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-outside.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 149,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-outside.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 150,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-outside.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 151,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-outside.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 152,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-outside.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 153,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-outside.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 154,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-outside.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 155,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-outside.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 156,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-outside.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    }
+  ],
+  "summary": {
+    "converted_rules": 3601,
+    "generated_files": 28,
+    "mapped_rule_sets": 1,
+    "skipped_rules": 1,
+    "source_files": 28,
+    "warnings": 441
+  }
+}

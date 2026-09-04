@@ -1,0 +1,32 @@
+# Clash/own is the source of truth. QuantumultX/own is generated.
+version: 1
+base-url: https://raw.githubusercontent.com/rensss/ACL4SSR_fork/master/QuantumultX/own
+
+# QX policy names used by rule actions embedded in Clash/own/MyRules.yaml.
+# Keep these names synchronized with the QX configuration that imports filter_remote.conf.
+policies:
+  - Dropbox
+  - Github
+  - Jable
+  - NIVOD
+  - OpenAI
+  - Porn
+  - REJECT
+  - SpeedTest
+  - Spotify
+  - TikTok
+  - 全球直连
+  - 国外媒体
+  - 应用净化
+  - 节点选择
+  - 谷歌FCM
+  - 🇸🇬 select_新加坡节点
+
+# Pure rule sets are generated even without entries here. Add an entry only when
+# a stable QX tag and force-policy are known. Do not add force-policy to a rule
+# set that already contains per-rule actions.
+rule-sets:
+  - source: MyRules.yaml
+    tag: Own-MyRules
+    enabled: true
+    update-interval: 86400
