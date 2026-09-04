@@ -3,8 +3,8 @@
 - Objective: publish Quantumult X remote rules generated from `Clash/own`.
 - Source of truth: `Clash/own/**/*.yaml`.
 - Generated output: `QuantumultX/own/**/*.list`, `filter_remote.conf`, and `diagnostics.json`.
-- Active branch: `feature/qx-remote-rules`.
-- Status: implementation and repository-wide generation verified on `feature/qx-remote-rules`; merge into `master` is pending.
+- Active branch: `master`.
+- Status: implementation merged and repository-wide generation verified; remote push is pending.
 
 ## Verification Record
 
