@@ -2866,14 +2866,6 @@
     },
     {
       "code": "option-removed",
-      "line": 76,
-      "message": "QX has no equivalent for no-resolve; the option was removed.",
-      "path": "User-ruls-outside.yaml",
-      "rule_type": "IP-CIDR",
-      "severity": "warning"
-    },
-    {
-      "code": "option-removed",
       "line": 77,
       "message": "QX has no equivalent for no-resolve; the option was removed.",
       "path": "User-ruls-outside.yaml",
@@ -3479,10 +3471,18 @@
       "path": "User-ruls-outside.yaml",
       "rule_type": "IP-CIDR",
       "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 153,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "User-ruls-outside.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
     }
   ],
   "summary": {
-    "converted_rules": 3597,
+    "converted_rules": 3598,
     "generated_files": 29,
     "mapped_rule_sets": 1,
     "skipped_rules": 1,
