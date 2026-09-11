@@ -24,7 +24,7 @@ payload:
 - DOMAIN-SUFFIX,gkd.li
 - DOMAIN-SUFFIX,suno.ai
 - DOMAIN-SUFFIX,v2rayssr.com
-- DOMAIN-KEYWORD,gstatic
+# - DOMAIN-KEYWORD,gstatic # 注释掉宽泛关键词，避免劫持 gemini.gstatic.com 及 Google 规则集
 - DOMAIN-SUFFIX,amytele.co
 - DOMAIN-SUFFIX,amytele.net
 - DOMAIN-SUFFIX,amysecure.com
