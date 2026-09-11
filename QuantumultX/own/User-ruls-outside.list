@@ -24,7 +24,7 @@ HOST,dl.inmobi.com
 HOST-SUFFIX,gkd.li
 HOST-SUFFIX,suno.ai
 HOST-SUFFIX,v2rayssr.com
-HOST-KEYWORD,gstatic
+# - DOMAIN-KEYWORD,gstatic # 注释掉宽泛关键词，避免劫持 gemini.gstatic.com 及 Google 规则集
 HOST-SUFFIX,amytele.co
 HOST-SUFFIX,amytele.net
 HOST-SUFFIX,amysecure.com
