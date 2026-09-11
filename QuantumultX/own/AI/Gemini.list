@@ -8,6 +8,7 @@ HOST-SUFFIX,bard.google.com
 HOST-SUFFIX,deepmind.com
 HOST-SUFFIX,deepmind.google
 HOST-SUFFIX,gemini.google.com
+HOST-SUFFIX,gemini.gstatic.com
 HOST-SUFFIX,generativeai.google
 HOST-SUFFIX,proactivebackend-pa.googleapis.com
 HOST-SUFFIX,apis.google.com
