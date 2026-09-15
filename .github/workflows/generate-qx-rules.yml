@@ -19,19 +19,26 @@ on:
       - tests/**
       - requirements.txt
       - .github/workflows/generate-qx-rules.yml
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
 
 permissions:
   contents: write
+
+concurrency:
+  group: generate-qx-rules
+  cancel-in-progress: true
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository
-        uses: actions/checkout@v5
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
 
       - name: Set up Python
-        uses: actions/setup-python@v6
+        uses: actions/setup-python@82c7e631bb3cdc910f68e0081d67478d79c6982d
         with:
           python-version: "3.11"
 
@@ -45,7 +52,7 @@ jobs:
         run: python scripts/clash_own_to_qx.py
 
       - name: Commit generated QX rules
-        if: github.event_name == 'push'
+        if: github.event_name != 'pull_request'
         run: |
           if git diff --quiet -- QuantumultX/own; then
             echo "QX rules are already current."

@@ -26,6 +26,34 @@ policies:
 # a stable QX tag and force-policy are known. Do not add force-policy to a rule
 # set that already contains per-rule actions.
 rule-sets:
+  - {source: AdRemove.yaml, tag: Own-AdRemove}
+  - {source: AppPurification.yaml, tag: Own-AppPurification}
+  - {source: User-ruls-direct.yaml, tag: Own-User-Direct}
+  - {source: User-ruls-outside.yaml, tag: Own-User-Outside}
+  - {source: AI/OpenAI.yaml, tag: Own-OpenAI}
+  - {source: AI/Claude.yaml, tag: Own-Claude}
+  - {source: AI/GenerativeLanguage.yaml, tag: Own-GenerativeLanguage}
+  - {source: AI/Gemini.yaml, tag: Own-Gemini}
+  - {source: AI/xAI.yaml, tag: Own-xAI}
+  - {source: AI/Cursor.yaml, tag: Own-Cursor}
+  - {source: AI/Trae.yaml, tag: Own-Trae}
+  - {source: AI/Windsurf.yaml, tag: Own-Windsurf}
+  - {source: AI/AugmentCode.yaml, tag: Own-AugmentCode}
+  - {source: AI/User-AI-rules.yaml, tag: Own-User-AI}
+  - {source: AI/User-AI-TW.yaml, tag: Own-User-AI-TW}
+  - {source: Telegram.yaml, tag: Own-Telegram}
+  - {source: GoogleFCM.yaml, tag: Own-GoogleFCM}
+  - {source: Google.yaml, tag: Own-Google}
+  - {source: Apple.yaml, tag: Own-Apple}
+  - {source: Github.yaml, tag: Own-Github}
+  - {source: Dropbox.yaml, tag: Own-Dropbox}
+  - {source: TikTok.yaml, tag: Own-TikTok}
+  - {source: Spotify.yaml, tag: Own-Spotify}
+  - {source: NivodTV.yaml, tag: Own-NivodTV}
+  - {source: Porn.yaml, tag: Own-Porn}
+  - {source: Game.yaml, tag: Own-Game}
+  - {source: ChinaMedia.yaml, tag: Own-ChinaMedia}
+  - {source: ProxyMedia.yaml, tag: Own-ProxyMedia}
   - source: MyRules.yaml
     tag: Own-MyRules
     enabled: true
