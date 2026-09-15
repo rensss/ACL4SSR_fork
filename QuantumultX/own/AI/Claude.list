@@ -1,6 +1,6 @@
 # Generated from Clash/own/AI/Claude.yaml. Do not edit.
-HOST,cdn.usefathom.com
-HOST-SUFFIX,anthropic.com
-HOST-SUFFIX,claude.ai
-HOST-SUFFIX,claude.com
-HOST-SUFFIX,claudeusercontent.com
+HOST,cdn.usefathom.com,direct
+HOST-SUFFIX,anthropic.com,direct
+HOST-SUFFIX,claude.ai,direct
+HOST-SUFFIX,claude.com,direct
+HOST-SUFFIX,claudeusercontent.com,direct

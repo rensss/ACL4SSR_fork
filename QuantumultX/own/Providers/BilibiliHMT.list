@@ -1,24 +1,24 @@
 # Generated from Clash/own/BilibiliHMT.yaml. Do not edit.
 # 内容：BilibiliHMT 哔哩哔哩 港澳台番剧
 # 数量：21条
-HOST,p-bstarstatic.akamaized.net
-HOST,p.bstarstatic.com
-HOST,upos-bstar-mirrorakam.akamaized.net
-HOST,upos-bstar1-mirrorakam.akamaized.net
-HOST,upos-hz-mirrorakam.akamaized.net
-HOST-SUFFIX,acgvideo.com
-HOST-SUFFIX,bilibili.com
-HOST-SUFFIX,bilibili.tv
-IP-CIDR,45.43.32.234/32
-IP-CIDR,103.151.150.0/23
-IP-CIDR,119.29.29.29/32
-IP-CIDR,128.1.62.200/32
-IP-CIDR,128.1.62.201/32
-IP-CIDR,150.116.92.250/32
-IP-CIDR,164.52.33.178/32
-IP-CIDR,164.52.33.182/32
-IP-CIDR,164.52.76.18/32
-IP-CIDR,203.107.1.33/32
-IP-CIDR,203.107.1.34/32
-IP-CIDR,203.107.1.65/32
-IP-CIDR,203.107.1.66/32
+HOST,p-bstarstatic.akamaized.net,direct
+HOST,p.bstarstatic.com,direct
+HOST,upos-bstar-mirrorakam.akamaized.net,direct
+HOST,upos-bstar1-mirrorakam.akamaized.net,direct
+HOST,upos-hz-mirrorakam.akamaized.net,direct
+HOST-SUFFIX,acgvideo.com,direct
+HOST-SUFFIX,bilibili.com,direct
+HOST-SUFFIX,bilibili.tv,direct
+IP-CIDR,45.43.32.234/32,direct
+IP-CIDR,103.151.150.0/23,direct
+IP-CIDR,119.29.29.29/32,direct
+IP-CIDR,128.1.62.200/32,direct
+IP-CIDR,128.1.62.201/32,direct
+IP-CIDR,150.116.92.250/32,direct
+IP-CIDR,164.52.33.178/32,direct
+IP-CIDR,164.52.33.182/32,direct
+IP-CIDR,164.52.76.18/32,direct
+IP-CIDR,203.107.1.33/32,direct
+IP-CIDR,203.107.1.34/32,direct
+IP-CIDR,203.107.1.65/32,direct
+IP-CIDR,203.107.1.66/32,direct

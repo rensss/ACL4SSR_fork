@@ -4,18 +4,18 @@
 #   #
 # PROCESS-NAME,OneDrive
 # PROCESS-NAME,OneDriveUpdater
-HOST-KEYWORD,1drv
-HOST-KEYWORD,onedrive
-HOST-KEYWORD,skydrive
-HOST-SUFFIX,livefilestore.com
-HOST-SUFFIX,microsoftpersonalcontent.com
-HOST-SUFFIX,oneclient.sfx.ms
-HOST-SUFFIX,onedrive.com
-HOST-SUFFIX,onedrive.live.com
-HOST-SUFFIX,photos.live.com
-HOST-SUFFIX,sharepoint.com
-HOST-SUFFIX,sharepointonline.com
-HOST-SUFFIX,skydrive.wns.windows.com
-HOST-SUFFIX,spoprod-a.akamaihd.net
-HOST-SUFFIX,storage.live.com
-HOST-SUFFIX,storage.msn.com
+HOST-KEYWORD,1drv,direct
+HOST-KEYWORD,onedrive,direct
+HOST-KEYWORD,skydrive,direct
+HOST-SUFFIX,livefilestore.com,direct
+HOST-SUFFIX,microsoftpersonalcontent.com,direct
+HOST-SUFFIX,oneclient.sfx.ms,direct
+HOST-SUFFIX,onedrive.com,direct
+HOST-SUFFIX,onedrive.live.com,direct
+HOST-SUFFIX,photos.live.com,direct
+HOST-SUFFIX,sharepoint.com,direct
+HOST-SUFFIX,sharepointonline.com,direct
+HOST-SUFFIX,skydrive.wns.windows.com,direct
+HOST-SUFFIX,spoprod-a.akamaihd.net,direct
+HOST-SUFFIX,storage.live.com,direct
+HOST-SUFFIX,storage.msn.com,direct

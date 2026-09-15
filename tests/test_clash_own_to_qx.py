@@ -77,18 +77,18 @@ rule-sets:
             (self.output_dir / "AI" / "OpenAI.list").read_text(encoding="utf-8"),
             """# Generated from Clash/own/AI/OpenAI.yaml. Do not edit.
 # Core service endpoints
-HOST,api.example.test
-HOST-SUFFIX,example.test
-HOST-KEYWORD,example
+HOST,api.example.test,direct
+HOST-SUFFIX,example.test,direct
+HOST-KEYWORD,example,direct
 IP-CIDR,192.0.2.0/24,OpenAI
-IP6-CIDR,2001:db8::/32
-USER-AGENT,ExampleApp*
+IP6-CIDR,2001:db8::/32,direct
+USER-AGENT,ExampleApp*,direct
 """,
         )
         self.assertEqual(
             (self.output_dir / "General.list").read_text(encoding="utf-8"),
             """# Generated from Clash/own/General.yaml. Do not edit.
-HOST-SUFFIX,manual.example.test
+HOST-SUFFIX,manual.example.test,direct
 """,
         )
         self.assertEqual(
@@ -215,7 +215,7 @@ rule-sets:
 
         convert_repository(self.source_dir, self.manifest_path, self.output_dir)
 
-        self.assertIn("HOST-SUFFIX,onedrive.example", (self.output_dir / "Providers" / "OneDrive.list").read_text(encoding="utf-8"))
+        self.assertIn("HOST-SUFFIX,onedrive.example,direct", (self.output_dir / "Providers" / "OneDrive.list").read_text(encoding="utf-8"))
         self.assertIn("Providers/OneDrive.list", (self.output_dir / "filter_remote.conf").read_text(encoding="utf-8"))
 
 

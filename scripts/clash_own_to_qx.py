@@ -298,7 +298,7 @@ def _convert_rule(rule, policies):
     if action and action not in policies:
         raise ValidationError("{}:{}: policy is not declared: {}".format(rule["path"], rule["line"], action))
 
-    rendered = ",".join([RULE_TYPE_MAP[rule_type], parts[1]] + ([action] if action else []))
+    rendered = ",".join([RULE_TYPE_MAP[rule_type], parts[1], action or "direct"])
     return rendered, diagnostics, bool(action)
 
 
