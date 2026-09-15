@@ -195,6 +195,29 @@ rule-sets:
             "Actions.yaml:2: policy is not declared: MissingPolicy",
         )
 
+    def test_reads_allowlisted_rule_set_from_an_additional_source_root(self):
+        provider_root = self.root / "Clash" / "Providers"
+        provider_root.mkdir(parents=True)
+        (provider_root / "OneDrive.yaml").write_text("payload:\n  - DOMAIN-SUFFIX,onedrive.example\n", encoding="utf-8")
+        self.write_manifest(
+            """version: 1
+base-url: https://example.com/qx
+policies: []
+source-roots:
+  providers: Clash/Providers
+rule-sets:
+  - source-root: providers
+    source: OneDrive.yaml
+    output: Providers/OneDrive.list
+    tag: OneDrive
+"""
+        )
+
+        convert_repository(self.source_dir, self.manifest_path, self.output_dir)
+
+        self.assertIn("HOST-SUFFIX,onedrive.example", (self.output_dir / "Providers" / "OneDrive.list").read_text(encoding="utf-8"))
+        self.assertIn("Providers/OneDrive.list", (self.output_dir / "filter_remote.conf").read_text(encoding="utf-8"))
+
 
 if __name__ == "__main__":
     unittest.main()

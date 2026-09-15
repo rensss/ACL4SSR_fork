@@ -1,0 +1,9 @@
+# Generated from Clash/own/Bahamut.yaml. Do not edit.
+# 内容：Bahamut
+# 数量：6条
+#
+HOST,bahamut.akamaized.net
+HOST,gamer-cds.cdn.hinet.net
+HOST,gamer2-cds.cdn.hinet.net
+HOST-SUFFIX,bahamut.com.tw
+HOST-SUFFIX,gamer.com.tw

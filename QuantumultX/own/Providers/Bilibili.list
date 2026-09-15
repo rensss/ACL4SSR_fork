@@ -1,0 +1,24 @@
+# Generated from Clash/own/Bilibili.yaml. Do not edit.
+# 内容：Bilibili 哔哩哔哩
+# 数量：23条
+#   #   #
+HOST,apiintl.biliapi.net
+HOST,upos-hz-mirrorakam.akamaized.net
+HOST-SUFFIX,acg.tv
+HOST-SUFFIX,acgvideo.com
+HOST-SUFFIX,b23.tv
+HOST-SUFFIX,bigfun.cn
+HOST-SUFFIX,bigfunapp.cn
+HOST-SUFFIX,biliapi.com
+HOST-SUFFIX,biliapi.net
+HOST-SUFFIX,bilibili.co
+HOST-SUFFIX,bilibili.com
+HOST-SUFFIX,bilibili.tv
+HOST-SUFFIX,biligame.com
+HOST-SUFFIX,biligame.net
+HOST-SUFFIX,biliintl.co
+HOST-SUFFIX,bilivideo.cn
+HOST-SUFFIX,bilivideo.com
+HOST-SUFFIX,hdslb.com
+HOST-SUFFIX,im9.com
+HOST-SUFFIX,smtcdns.net

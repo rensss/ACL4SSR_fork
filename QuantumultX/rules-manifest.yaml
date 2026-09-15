@@ -1,6 +1,9 @@
 # Clash/own is the source of truth. QuantumultX/own is generated.
 version: 1
 base-url: https://raw.githubusercontent.com/rensss/ACL4SSR_fork/master/QuantumultX/own
+source-roots:
+  ruleset-providers: Clash/Providers/Ruleset
+  clash-providers: Clash/Providers
 
 # QX policy names used by rule actions embedded in Clash/own/MyRules.yaml.
 # Keep these names synchronized with the QX configuration that imports filter_remote.conf.
@@ -54,6 +57,16 @@ rule-sets:
   - {source: Game.yaml, tag: Own-Game}
   - {source: ChinaMedia.yaml, tag: Own-ChinaMedia}
   - {source: ProxyMedia.yaml, tag: Own-ProxyMedia}
+  - {source-root: ruleset-providers, source: OneDrive.yaml, output: Providers/OneDrive.list, tag: Provider-OneDrive}
+  - {source-root: ruleset-providers, source: Microsoft.yaml, output: Providers/Microsoft.list, tag: Provider-Microsoft}
+  - {source-root: ruleset-providers, source: NetEaseMusic.yaml, output: Providers/NetEaseMusic.list, tag: Provider-NetEaseMusic}
+  - {source-root: ruleset-providers, source: YouTube.yaml, output: Providers/YouTube.list, tag: Provider-YouTube}
+  - {source-root: ruleset-providers, source: Netflix.yaml, output: Providers/Netflix.list, tag: Provider-Netflix}
+  - {source-root: ruleset-providers, source: Bahamut.yaml, output: Providers/Bahamut.list, tag: Provider-Bahamut}
+  - {source-root: ruleset-providers, source: Bilibili.yaml, output: Providers/Bilibili.list, tag: Provider-Bilibili}
+  - {source-root: ruleset-providers, source: BilibiliHMT.yaml, output: Providers/BilibiliHMT.list, tag: Provider-BilibiliHMT}
+  - {source-root: clash-providers, source: ProxyGFWlist.yaml, output: Providers/ProxyGFWlist.list, tag: Provider-ProxyGFWlist}
+  - {source-root: clash-providers, source: ProxyLite.yaml, output: Providers/ProxyLite.list, tag: Provider-ProxyLite}
   - source: MyRules.yaml
     tag: Own-MyRules
     enabled: true

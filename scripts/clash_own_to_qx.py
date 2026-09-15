@@ -33,8 +33,12 @@ def convert_repository(source_dir, manifest_path, output_dir):
 
     manifest = _load_manifest(manifest_path, source_dir)
     rule_paths = sorted(source_dir.rglob("*.yaml"))
-    parsed_rule_sets = [_parse_rule_set(path, source_dir) for path in rule_paths]
-    mapping_by_source = {entry["source"]: entry for entry in manifest["rule_sets"]}
+    parsed_rule_sets = [_parse_rule_set(path, source_dir, "own") for path in rule_paths]
+    for entry in manifest["rule_sets"]:
+        if entry["source_root"] != "own":
+            root = manifest["source_roots"][entry["source_root"]]
+            parsed_rule_sets.append(_parse_rule_set(root / entry["source"], root, entry["source_root"]))
+    mapping_by_source = {(entry["source_root"], entry["source"]): entry for entry in manifest["rule_sets"]}
     diagnostics = []
     converted_rules = 0
     skipped_rules = 0
@@ -46,7 +50,7 @@ def convert_repository(source_dir, manifest_path, output_dir):
         staged_output.mkdir()
 
         for rule_set in parsed_rule_sets:
-            mapping = mapping_by_source.get(rule_set["path"])
+            mapping = mapping_by_source.get((rule_set["source_root"], rule_set["path"]))
             output_relative = mapping["output"] if mapping else _default_output(rule_set["path"])
             output_path = staged_output / output_relative
             output_path.parent.mkdir(parents=True, exist_ok=True)
@@ -118,6 +122,26 @@ def _load_manifest(manifest_path, source_dir):
         errors.append("{}: rule-sets must be a list".format(manifest_path.name))
         raw_rule_sets = []
 
+    repository_root = manifest_path.parent.parent
+    source_roots = {"own": source_dir}
+    raw_source_roots = document.get("source-roots", {})
+    if not isinstance(raw_source_roots, dict):
+        errors.append("{}: source-roots must be a mapping".format(manifest_path.name))
+        raw_source_roots = {}
+    for name, relative in raw_source_roots.items():
+        prefix = "{}: source-roots.{}".format(manifest_path.name, name)
+        if not isinstance(name, str) or not name or name == "own":
+            errors.append("{} has an invalid name".format(prefix))
+            continue
+        if not isinstance(relative, str) or Path(relative).is_absolute() or ".." in Path(relative).parts:
+            errors.append("{} must be a relative repository path".format(prefix))
+            continue
+        root = repository_root / relative
+        if not root.is_dir():
+            errors.append("{} does not exist".format(prefix))
+            continue
+        source_roots[name] = root
+
     rule_sets = []
     tags = set()
     outputs = set()
@@ -129,6 +153,7 @@ def _load_manifest(manifest_path, source_dir):
             continue
 
         source = raw_entry.get("source")
+        source_root = raw_entry.get("source-root", "own")
         tag = raw_entry.get("tag")
         if not isinstance(source, str) or not source:
             errors.append("{}.source must be a non-empty relative path".format(prefix))
@@ -137,7 +162,10 @@ def _load_manifest(manifest_path, source_dir):
             errors.append("{}.tag must be a non-empty name without commas".format(prefix))
             continue
 
-        source_path = source_dir / source
+        if source_root not in source_roots:
+            errors.append("{}.source-root is not declared: {}".format(prefix, source_root))
+            source_root = "own"
+        source_path = source_roots[source_root] / source
         if Path(source).is_absolute() or ".." in Path(source).parts or not source_path.is_file():
             errors.append("{}.source does not exist: {}".format(prefix, source))
         if tag in tags:
@@ -171,6 +199,7 @@ def _load_manifest(manifest_path, source_dir):
         rule_sets.append(
             {
                 "source": source,
+                "source_root": source_root,
                 "tag": tag,
                 "output": output,
                 "force_policy": force_policy,
@@ -181,10 +210,10 @@ def _load_manifest(manifest_path, source_dir):
 
     if errors:
         raise ValidationError("; ".join(errors))
-    return {"base_url": base_url.rstrip("/"), "policies": set(policies), "rule_sets": rule_sets}
+    return {"base_url": base_url.rstrip("/"), "policies": set(policies), "rule_sets": rule_sets, "source_roots": source_roots}
 
 
-def _parse_rule_set(path, source_dir):
+def _parse_rule_set(path, source_dir, source_root="own"):
     text = path.read_text(encoding="utf-8")
     try:
         root = yaml.compose(text)
@@ -208,7 +237,7 @@ def _parse_rule_set(path, source_dir):
             }
         )
         previous_line = item.start_mark.line
-    return {"path": path.relative_to(source_dir).as_posix(), "rules": rules}
+    return {"path": path.relative_to(source_dir).as_posix(), "rules": rules, "source_root": source_root}
 
 
 def _payload_node(root, relative_path):

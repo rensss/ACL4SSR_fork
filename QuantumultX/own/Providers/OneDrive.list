@@ -1,0 +1,21 @@
+# Generated from Clash/own/OneDrive.yaml. Do not edit.
+# 内容：OneDrive
+# 数量：19条
+#   #
+# PROCESS-NAME,OneDrive
+# PROCESS-NAME,OneDriveUpdater
+HOST-KEYWORD,1drv
+HOST-KEYWORD,onedrive
+HOST-KEYWORD,skydrive
+HOST-SUFFIX,livefilestore.com
+HOST-SUFFIX,microsoftpersonalcontent.com
+HOST-SUFFIX,oneclient.sfx.ms
+HOST-SUFFIX,onedrive.com
+HOST-SUFFIX,onedrive.live.com
+HOST-SUFFIX,photos.live.com
+HOST-SUFFIX,sharepoint.com
+HOST-SUFFIX,sharepointonline.com
+HOST-SUFFIX,skydrive.wns.windows.com
+HOST-SUFFIX,spoprod-a.akamaihd.net
+HOST-SUFFIX,storage.live.com
+HOST-SUFFIX,storage.msn.com

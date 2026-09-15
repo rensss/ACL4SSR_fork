@@ -3479,14 +3479,1182 @@
       "path": "User-ruls-outside.yaml",
       "rule_type": "IP-CIDR",
       "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 10,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "NetEaseMusic.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 11,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "NetEaseMusic.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 12,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "NetEaseMusic.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 13,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "NetEaseMusic.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 14,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "NetEaseMusic.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 15,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "NetEaseMusic.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 16,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "NetEaseMusic.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 17,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "NetEaseMusic.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 18,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "NetEaseMusic.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 19,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "NetEaseMusic.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 20,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "NetEaseMusic.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 21,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "NetEaseMusic.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 22,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "NetEaseMusic.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 23,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "NetEaseMusic.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 24,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "NetEaseMusic.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 25,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "NetEaseMusic.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 26,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "NetEaseMusic.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 27,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "NetEaseMusic.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 28,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "NetEaseMusic.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 29,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "NetEaseMusic.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 30,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "NetEaseMusic.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 31,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "NetEaseMusic.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 32,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "NetEaseMusic.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 33,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "NetEaseMusic.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 34,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "NetEaseMusic.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 35,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "NetEaseMusic.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 36,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "NetEaseMusic.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 37,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "NetEaseMusic.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 38,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "NetEaseMusic.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 39,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "NetEaseMusic.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 40,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "NetEaseMusic.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 27,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "Netflix.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 28,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "Netflix.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 29,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "Netflix.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 30,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "Netflix.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 31,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "Netflix.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 32,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "Netflix.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 33,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "Netflix.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 34,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "Netflix.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 35,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "Netflix.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 36,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "Netflix.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 37,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "Netflix.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 38,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "Netflix.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 39,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "Netflix.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 40,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "Netflix.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 41,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "Netflix.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 42,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "Netflix.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 43,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "Netflix.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 44,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "Netflix.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 12,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "BilibiliHMT.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 13,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "BilibiliHMT.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 14,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "BilibiliHMT.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 15,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "BilibiliHMT.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 16,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "BilibiliHMT.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 17,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "BilibiliHMT.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 18,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "BilibiliHMT.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 19,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "BilibiliHMT.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 20,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "BilibiliHMT.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 21,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "BilibiliHMT.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 22,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "BilibiliHMT.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 23,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "BilibiliHMT.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 24,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "BilibiliHMT.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 173,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyLite.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 174,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyLite.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 175,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyLite.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 176,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyLite.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 177,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyLite.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 178,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyLite.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 179,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyLite.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 180,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyLite.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 181,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyLite.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 182,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyLite.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 183,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyLite.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 184,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyLite.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 185,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyLite.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 186,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyLite.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 187,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyLite.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 243,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyLite.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 244,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyLite.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 245,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyLite.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 246,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyLite.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 247,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyLite.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 248,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyLite.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 249,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyLite.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 250,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyLite.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 251,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyLite.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 252,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyLite.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 253,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyLite.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 254,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyLite.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 255,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyLite.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 256,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyLite.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 287,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyLite.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 288,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyLite.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 291,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyLite.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 292,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyLite.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 293,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyLite.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 294,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyLite.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 295,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyLite.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 296,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyLite.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 297,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyLite.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 298,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyLite.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 299,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyLite.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 300,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyLite.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 301,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyLite.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 302,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyLite.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 303,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyLite.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 304,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyLite.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 305,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyLite.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 306,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyLite.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 307,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyLite.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 308,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyLite.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 322,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyLite.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 323,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyLite.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 324,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyLite.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 325,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyLite.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 326,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyLite.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 327,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyLite.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 337,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyLite.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 338,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyLite.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 339,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyLite.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 340,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyLite.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 341,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyLite.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 342,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyLite.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 343,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyLite.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 344,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyLite.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 447,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyLite.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 448,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyLite.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 449,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyLite.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 450,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyLite.yaml",
+      "rule_type": "IP-CIDR6",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 451,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyLite.yaml",
+      "rule_type": "IP-CIDR6",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 452,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyLite.yaml",
+      "rule_type": "IP-CIDR6",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 459,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyLite.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 460,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyLite.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 461,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyLite.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 462,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyLite.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 463,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyLite.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 464,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyLite.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 465,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyLite.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 466,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyLite.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 467,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyLite.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 468,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyLite.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 469,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyLite.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 470,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyLite.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 471,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyLite.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 472,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyLite.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 473,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "ProxyLite.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
     }
   ],
   "summary": {
-    "converted_rules": 3599,
-    "generated_files": 29,
-    "mapped_rule_sets": 29,
+    "converted_rules": 8579,
+    "generated_files": 39,
+    "mapped_rule_sets": 39,
     "skipped_rules": 1,
-    "source_files": 29,
-    "warnings": 435
+    "source_files": 39,
+    "warnings": 581
   }
 }
