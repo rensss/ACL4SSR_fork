@@ -12,12 +12,12 @@ from yaml.nodes import MappingNode, ScalarNode, SequenceNode
 
 
 RULE_TYPE_MAP = {
-    "DOMAIN": "HOST",
-    "DOMAIN-SUFFIX": "HOST-SUFFIX",
-    "DOMAIN-KEYWORD": "HOST-KEYWORD",
-    "IP-CIDR": "IP-CIDR",
-    "IP-CIDR6": "IP6-CIDR",
-    "USER-AGENT": "USER-AGENT",
+    "DOMAIN": "host",
+    "DOMAIN-SUFFIX": "host-suffix",
+    "DOMAIN-KEYWORD": "host-keyword",
+    "IP-CIDR": "ip-cidr",
+    "IP-CIDR6": "ip6-cidr",
+    "USER-AGENT": "user-agent",
 }
 
 
@@ -298,7 +298,10 @@ def _convert_rule(rule, policies):
     if action and action not in policies:
         raise ValidationError("{}:{}: policy is not declared: {}".format(rule["path"], rule["line"], action))
 
-    rendered = ",".join([RULE_TYPE_MAP[rule_type], parts[1], action or "direct"])
+    rendered_type = RULE_TYPE_MAP[rule_type]
+    if rule_type == "DOMAIN-SUFFIX" and "*" in parts[1]:
+        rendered_type = "host-wildcard"
+    rendered = ",".join([rendered_type, parts[1], action or "direct"])
     return rendered, diagnostics, bool(action)
 
 

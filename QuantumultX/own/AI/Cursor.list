@@ -1,7 +1,7 @@
 # Generated from Clash/own/AI/Cursor.yaml. Do not edit.
 # >> Cursor
-HOST-SUFFIX,cursor.sh,direct
-HOST-SUFFIX,cursor-cdn.com,direct
-HOST-SUFFIX,cursorapi.com,direct
-HOST-SUFFIX,cursor.com,direct
-HOST-SUFFIX,workos.com,direct
+host-suffix,cursor.sh,direct
+host-suffix,cursor-cdn.com,direct
+host-suffix,cursorapi.com,direct
+host-suffix,cursor.com,direct
+host-suffix,workos.com,direct

@@ -2,17 +2,17 @@
 # 内容：YouTube
 # 数量：17条
 #   #   #
-HOST-KEYWORD,youtube,direct
-HOST,youtubei.googleapis.com,direct
-HOST,yt3.ggpht.com,direct
-HOST-SUFFIX,googlevideo.com,direct
-HOST-SUFFIX,gvt2.com,direct
-HOST-SUFFIX,withyoutube.com,direct
-HOST-SUFFIX,youtu.be,direct
-HOST-SUFFIX,youtube-nocookie.com,direct
-HOST-SUFFIX,youtube.com,direct
-HOST-SUFFIX,youtubeeducation.com,direct
-HOST-SUFFIX,youtubegaming.com,direct
-HOST-SUFFIX,youtubekids.com,direct
-HOST-SUFFIX,yt.be,direct
-HOST-SUFFIX,ytimg.com,direct
+host-keyword,youtube,direct
+host,youtubei.googleapis.com,direct
+host,yt3.ggpht.com,direct
+host-suffix,googlevideo.com,direct
+host-suffix,gvt2.com,direct
+host-suffix,withyoutube.com,direct
+host-suffix,youtu.be,direct
+host-suffix,youtube-nocookie.com,direct
+host-suffix,youtube.com,direct
+host-suffix,youtubeeducation.com,direct
+host-suffix,youtubegaming.com,direct
+host-suffix,youtubekids.com,direct
+host-suffix,yt.be,direct
+host-suffix,ytimg.com,direct

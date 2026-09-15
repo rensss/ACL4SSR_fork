@@ -1,24 +1,24 @@
 # Generated from Clash/own/BilibiliHMT.yaml. Do not edit.
 # 内容：BilibiliHMT 哔哩哔哩 港澳台番剧
 # 数量：21条
-HOST,p-bstarstatic.akamaized.net,direct
-HOST,p.bstarstatic.com,direct
-HOST,upos-bstar-mirrorakam.akamaized.net,direct
-HOST,upos-bstar1-mirrorakam.akamaized.net,direct
-HOST,upos-hz-mirrorakam.akamaized.net,direct
-HOST-SUFFIX,acgvideo.com,direct
-HOST-SUFFIX,bilibili.com,direct
-HOST-SUFFIX,bilibili.tv,direct
-IP-CIDR,45.43.32.234/32,direct
-IP-CIDR,103.151.150.0/23,direct
-IP-CIDR,119.29.29.29/32,direct
-IP-CIDR,128.1.62.200/32,direct
-IP-CIDR,128.1.62.201/32,direct
-IP-CIDR,150.116.92.250/32,direct
-IP-CIDR,164.52.33.178/32,direct
-IP-CIDR,164.52.33.182/32,direct
-IP-CIDR,164.52.76.18/32,direct
-IP-CIDR,203.107.1.33/32,direct
-IP-CIDR,203.107.1.34/32,direct
-IP-CIDR,203.107.1.65/32,direct
-IP-CIDR,203.107.1.66/32,direct
+host,p-bstarstatic.akamaized.net,direct
+host,p.bstarstatic.com,direct
+host,upos-bstar-mirrorakam.akamaized.net,direct
+host,upos-bstar1-mirrorakam.akamaized.net,direct
+host,upos-hz-mirrorakam.akamaized.net,direct
+host-suffix,acgvideo.com,direct
+host-suffix,bilibili.com,direct
+host-suffix,bilibili.tv,direct
+ip-cidr,45.43.32.234/32,direct
+ip-cidr,103.151.150.0/23,direct
+ip-cidr,119.29.29.29/32,direct
+ip-cidr,128.1.62.200/32,direct
+ip-cidr,128.1.62.201/32,direct
+ip-cidr,150.116.92.250/32,direct
+ip-cidr,164.52.33.178/32,direct
+ip-cidr,164.52.33.182/32,direct
+ip-cidr,164.52.76.18/32,direct
+ip-cidr,203.107.1.33/32,direct
+ip-cidr,203.107.1.34/32,direct
+ip-cidr,203.107.1.65/32,direct
+ip-cidr,203.107.1.66/32,direct

@@ -1,12 +1,12 @@
 # Generated from Clash/own/NivodTV.yaml. Do not edit.
-HOST-SUFFIX,biggggg.com,direct
-HOST-SUFFIX,mudvod.tv,direct
-HOST-SUFFIX,nbys.tv,direct
-HOST-SUFFIX,nbys1.tv,direct
-HOST-SUFFIX,nbyy.tv,direct
-HOST-SUFFIX,newpppp.com,direct
-HOST-SUFFIX,nivod.tv,direct
-HOST-SUFFIX,nivodi.tv,direct
-HOST-SUFFIX,nivodz.com,direct
-HOST-SUFFIX,vod360.net,direct
-HOST-KEYWORD,nivod,direct
+host-suffix,biggggg.com,direct
+host-suffix,mudvod.tv,direct
+host-suffix,nbys.tv,direct
+host-suffix,nbys1.tv,direct
+host-suffix,nbyy.tv,direct
+host-suffix,newpppp.com,direct
+host-suffix,nivod.tv,direct
+host-suffix,nivodi.tv,direct
+host-suffix,nivodz.com,direct
+host-suffix,vod360.net,direct
+host-keyword,nivod,direct

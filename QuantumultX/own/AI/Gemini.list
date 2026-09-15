@@ -1,17 +1,17 @@
 # Generated from Clash/own/AI/Gemini.yaml. Do not edit.
 # >> Gemini
-HOST,ai.google.dev,direct
-HOST,alkalimakersuite-pa.clients6.google.com,direct
-HOST,makersuite.google.com,direct
-HOST-SUFFIX,googleapis.com,direct
-HOST-SUFFIX,bard.google.com,direct
-HOST-SUFFIX,deepmind.com,direct
-HOST-SUFFIX,deepmind.google,direct
-HOST-SUFFIX,gemini.google.com,direct
-HOST-SUFFIX,gemini.gstatic.com,direct
-HOST-SUFFIX,generativeai.google,direct
-HOST-SUFFIX,proactivebackend-pa.googleapis.com,direct
-HOST-SUFFIX,apis.google.com,direct
-HOST-KEYWORD,colab,direct
-HOST-KEYWORD,developerprofiles,direct
-HOST-KEYWORD,generativelanguage,direct
+host,ai.google.dev,direct
+host,alkalimakersuite-pa.clients6.google.com,direct
+host,makersuite.google.com,direct
+host-suffix,googleapis.com,direct
+host-suffix,bard.google.com,direct
+host-suffix,deepmind.com,direct
+host-suffix,deepmind.google,direct
+host-suffix,gemini.google.com,direct
+host-suffix,gemini.gstatic.com,direct
+host-suffix,generativeai.google,direct
+host-suffix,proactivebackend-pa.googleapis.com,direct
+host-suffix,apis.google.com,direct
+host-keyword,colab,direct
+host-keyword,developerprofiles,direct
+host-keyword,generativelanguage,direct

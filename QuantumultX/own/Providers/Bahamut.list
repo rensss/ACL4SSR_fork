@@ -2,8 +2,8 @@
 # 内容：Bahamut
 # 数量：6条
 #
-HOST,bahamut.akamaized.net,direct
-HOST,gamer-cds.cdn.hinet.net,direct
-HOST,gamer2-cds.cdn.hinet.net,direct
-HOST-SUFFIX,bahamut.com.tw,direct
-HOST-SUFFIX,gamer.com.tw,direct
+host,bahamut.akamaized.net,direct
+host,gamer-cds.cdn.hinet.net,direct
+host,gamer2-cds.cdn.hinet.net,direct
+host-suffix,bahamut.com.tw,direct
+host-suffix,gamer.com.tw,direct

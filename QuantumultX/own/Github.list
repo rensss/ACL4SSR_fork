@@ -1,7 +1,7 @@
 # Generated from Clash/own/Github.yaml. Do not edit.
-HOST-SUFFIX,github.com,direct
-HOST-SUFFIX,github.io,direct
-HOST-SUFFIX,githubapp.com,direct
-HOST-SUFFIX,githubassets.com,direct
-HOST-SUFFIX,githubusercontent.com,direct
-HOST-KEYWORD,github,direct
+host-suffix,github.com,direct
+host-suffix,github.io,direct
+host-suffix,githubapp.com,direct
+host-suffix,githubassets.com,direct
+host-suffix,githubusercontent.com,direct
+host-keyword,github,direct

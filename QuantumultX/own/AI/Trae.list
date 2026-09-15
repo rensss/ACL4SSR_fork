@@ -1,16 +1,16 @@
 # Generated from Clash/own/AI/Trae.yaml. Do not edit.
 # >> Trae
-HOST-SUFFIX,trae.ai,direct
-HOST-SUFFIX,byteoversea.com,direct
-HOST-SUFFIX,trae-api-sg.mchost.guru,direct
-HOST-SUFFIX,lf3-static.bytednsdoc.com,direct
-HOST-SUFFIX,abtestvm-sg.bytedance.com,direct
-HOST-SUFFIX,tron-sg.bytelemon.com,direct
-HOST-SUFFIX,trae.com.cn,direct
-HOST-SUFFIX,tron.jiyunhudong.com,direct
-HOST-SUFFIX,starling.zijieapi.com,direct
-HOST-SUFFIX,byteintl.com,direct
-HOST-SUFFIX,byteintlapi.com,direct
-HOST-SUFFIX,bytedapm.com,direct
-HOST-SUFFIX,traeapi.us,direct
-HOST-SUFFIX,traecdn.ai,direct
+host-suffix,trae.ai,direct
+host-suffix,byteoversea.com,direct
+host-suffix,trae-api-sg.mchost.guru,direct
+host-suffix,lf3-static.bytednsdoc.com,direct
+host-suffix,abtestvm-sg.bytedance.com,direct
+host-suffix,tron-sg.bytelemon.com,direct
+host-suffix,trae.com.cn,direct
+host-suffix,tron.jiyunhudong.com,direct
+host-suffix,starling.zijieapi.com,direct
+host-suffix,byteintl.com,direct
+host-suffix,byteintlapi.com,direct
+host-suffix,bytedapm.com,direct
+host-suffix,traeapi.us,direct
+host-suffix,traecdn.ai,direct

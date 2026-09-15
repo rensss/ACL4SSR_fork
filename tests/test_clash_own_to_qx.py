@@ -39,6 +39,7 @@ class ClashOwnToQxTests(unittest.TestCase):
   # Core service endpoints
   - DOMAIN,api.example.test
   - DOMAIN-SUFFIX,example.test
+  - DOMAIN-SUFFIX,*.wildcard.example.test
   - DOMAIN-KEYWORD,example
   - IP-CIDR,192.0.2.0/24,OpenAI,no-resolve
   - IP-CIDR6,2001:db8::/32
@@ -77,18 +78,19 @@ rule-sets:
             (self.output_dir / "AI" / "OpenAI.list").read_text(encoding="utf-8"),
             """# Generated from Clash/own/AI/OpenAI.yaml. Do not edit.
 # Core service endpoints
-HOST,api.example.test,direct
-HOST-SUFFIX,example.test,direct
-HOST-KEYWORD,example,direct
-IP-CIDR,192.0.2.0/24,OpenAI
-IP6-CIDR,2001:db8::/32,direct
-USER-AGENT,ExampleApp*,direct
+host,api.example.test,direct
+host-suffix,example.test,direct
+host-wildcard,*.wildcard.example.test,direct
+host-keyword,example,direct
+ip-cidr,192.0.2.0/24,OpenAI
+ip6-cidr,2001:db8::/32,direct
+user-agent,ExampleApp*,direct
 """,
         )
         self.assertEqual(
             (self.output_dir / "General.list").read_text(encoding="utf-8"),
             """# Generated from Clash/own/General.yaml. Do not edit.
-HOST-SUFFIX,manual.example.test,direct
+host-suffix,manual.example.test,direct
 """,
         )
         self.assertEqual(
@@ -100,14 +102,14 @@ https://raw.githubusercontent.com/example/rules/master/QuantumultX/own/General.l
         )
         diagnostics = json.loads((self.output_dir / "diagnostics.json").read_text(encoding="utf-8"))
         self.assertEqual(report["summary"], diagnostics["summary"])
-        self.assertEqual(diagnostics["summary"]["converted_rules"], 7)
+        self.assertEqual(diagnostics["summary"]["converted_rules"], 8)
         self.assertEqual(diagnostics["summary"]["skipped_rules"], 1)
         self.assertEqual(
             diagnostics["diagnostics"],
             [
                 {
                     "code": "option-removed",
-                    "line": 6,
+                    "line": 7,
                     "message": "QX has no equivalent for no-resolve; the option was removed.",
                     "path": "AI/OpenAI.yaml",
                     "rule_type": "IP-CIDR",
@@ -115,7 +117,7 @@ https://raw.githubusercontent.com/example/rules/master/QuantumultX/own/General.l
                 },
                 {
                     "code": "unsupported-rule",
-                    "line": 9,
+                    "line": 10,
                     "message": "IP-ASN has no supported Quantumult X equivalent.",
                     "path": "AI/OpenAI.yaml",
                     "rule_type": "IP-ASN",
@@ -215,7 +217,7 @@ rule-sets:
 
         convert_repository(self.source_dir, self.manifest_path, self.output_dir)
 
-        self.assertIn("HOST-SUFFIX,onedrive.example,direct", (self.output_dir / "Providers" / "OneDrive.list").read_text(encoding="utf-8"))
+        self.assertIn("host-suffix,onedrive.example,direct", (self.output_dir / "Providers" / "OneDrive.list").read_text(encoding="utf-8"))
         self.assertIn("Providers/OneDrive.list", (self.output_dir / "filter_remote.conf").read_text(encoding="utf-8"))
 
 

@@ -1,5 +1,5 @@
 # Generated from Clash/own/Dropbox.yaml. Do not edit.
-HOST-KEYWORD,dropbox,direct
-HOST-SUFFIX,dropbox.com,direct
-HOST-SUFFIX,dropboxapi.com,direct
-HOST-SUFFIX,dropboxusercontent.com,direct
+host-keyword,dropbox,direct
+host-suffix,dropbox.com,direct
+host-suffix,dropboxapi.com,direct
+host-suffix,dropboxusercontent.com,direct

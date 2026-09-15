@@ -2,23 +2,23 @@
 # 内容：Bilibili 哔哩哔哩
 # 数量：23条
 #   #   #
-HOST,apiintl.biliapi.net,direct
-HOST,upos-hz-mirrorakam.akamaized.net,direct
-HOST-SUFFIX,acg.tv,direct
-HOST-SUFFIX,acgvideo.com,direct
-HOST-SUFFIX,b23.tv,direct
-HOST-SUFFIX,bigfun.cn,direct
-HOST-SUFFIX,bigfunapp.cn,direct
-HOST-SUFFIX,biliapi.com,direct
-HOST-SUFFIX,biliapi.net,direct
-HOST-SUFFIX,bilibili.co,direct
-HOST-SUFFIX,bilibili.com,direct
-HOST-SUFFIX,bilibili.tv,direct
-HOST-SUFFIX,biligame.com,direct
-HOST-SUFFIX,biligame.net,direct
-HOST-SUFFIX,biliintl.co,direct
-HOST-SUFFIX,bilivideo.cn,direct
-HOST-SUFFIX,bilivideo.com,direct
-HOST-SUFFIX,hdslb.com,direct
-HOST-SUFFIX,im9.com,direct
-HOST-SUFFIX,smtcdns.net,direct
+host,apiintl.biliapi.net,direct
+host,upos-hz-mirrorakam.akamaized.net,direct
+host-suffix,acg.tv,direct
+host-suffix,acgvideo.com,direct
+host-suffix,b23.tv,direct
+host-suffix,bigfun.cn,direct
+host-suffix,bigfunapp.cn,direct
+host-suffix,biliapi.com,direct
+host-suffix,biliapi.net,direct
+host-suffix,bilibili.co,direct
+host-suffix,bilibili.com,direct
+host-suffix,bilibili.tv,direct
+host-suffix,biligame.com,direct
+host-suffix,biligame.net,direct
+host-suffix,biliintl.co,direct
+host-suffix,bilivideo.cn,direct
+host-suffix,bilivideo.com,direct
+host-suffix,hdslb.com,direct
+host-suffix,im9.com,direct
+host-suffix,smtcdns.net,direct
