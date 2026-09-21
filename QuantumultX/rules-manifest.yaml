@@ -1,73 +1,124 @@
-# Clash/own is the source of truth. QuantumultX/own is generated.
 version: 1
 base-url: https://raw.githubusercontent.com/rensss/ACL4SSR_fork/master/QuantumultX/own
 source-roots:
   ruleset-providers: Clash/Providers/Ruleset
   clash-providers: Clash/Providers
-
-# QX policy names used by rule actions embedded in Clash/own/MyRules.yaml.
-# Keep these names synchronized with the QX configuration that imports filter_remote.conf.
 policies:
-  - Dropbox
-  - Github
-  - Jable
-  - NIVOD
-  - OpenAI
-  - Porn
-  - REJECT
-  - SpeedTest
-  - Spotify
-  - TikTok
-  - 全球直连
-  - 国外媒体
-  - 应用净化
-  - 节点选择
-  - 谷歌FCM
-  - 🇸🇬 select_新加坡节点
-
-# Pure rule sets are generated even without entries here. Add an entry only when
-# a stable QX tag and force-policy are known. Do not add force-policy to a rule
-# set that already contains per-rule actions.
+- Dropbox
+- Github
+- Jable
+- NIVOD
+- OpenAI
+- Porn
+- REJECT
+- SpeedTest
+- Spotify
+- TikTok
+- 全球直连
+- 国外媒体
+- 应用净化
+- 节点选择
+- 谷歌FCM
+- 🇸🇬 select_新加坡节点
 rule-sets:
-  - {source: AdRemove.yaml, tag: Own-AdRemove}
-  - {source: AppPurification.yaml, tag: Own-AppPurification}
-  - {source: User-ruls-direct.yaml, tag: Own-User-Direct}
-  - {source: User-ruls-outside.yaml, tag: Own-User-Outside}
-  - {source: AI/OpenAI.yaml, tag: Own-OpenAI}
-  - {source: AI/Claude.yaml, tag: Own-Claude}
-  - {source: AI/GenerativeLanguage.yaml, tag: Own-GenerativeLanguage}
-  - {source: AI/Gemini.yaml, tag: Own-Gemini}
-  - {source: AI/xAI.yaml, tag: Own-xAI}
-  - {source: AI/Cursor.yaml, tag: Own-Cursor}
-  - {source: AI/Trae.yaml, tag: Own-Trae}
-  - {source: AI/Windsurf.yaml, tag: Own-Windsurf}
-  - {source: AI/AugmentCode.yaml, tag: Own-AugmentCode}
-  - {source: AI/User-AI-rules.yaml, tag: Own-User-AI}
-  - {source: AI/User-AI-TW.yaml, tag: Own-User-AI-TW}
-  - {source: Telegram.yaml, tag: Own-Telegram}
-  - {source: GoogleFCM.yaml, tag: Own-GoogleFCM}
-  - {source: Google.yaml, tag: Own-Google}
-  - {source: Apple.yaml, tag: Own-Apple}
-  - {source: Github.yaml, tag: Own-Github}
-  - {source: Dropbox.yaml, tag: Own-Dropbox}
-  - {source: TikTok.yaml, tag: Own-TikTok}
-  - {source: Spotify.yaml, tag: Own-Spotify}
-  - {source: NivodTV.yaml, tag: Own-NivodTV}
-  - {source: Porn.yaml, tag: Own-Porn}
-  - {source: Game.yaml, tag: Own-Game}
-  - {source: ChinaMedia.yaml, tag: Own-ChinaMedia}
-  - {source: ProxyMedia.yaml, tag: Own-ProxyMedia}
-  - {source-root: ruleset-providers, source: OneDrive.yaml, output: Providers/OneDrive.list, tag: Provider-OneDrive}
-  - {source-root: ruleset-providers, source: Microsoft.yaml, output: Providers/Microsoft.list, tag: Provider-Microsoft}
-  - {source-root: ruleset-providers, source: NetEaseMusic.yaml, output: Providers/NetEaseMusic.list, tag: Provider-NetEaseMusic}
-  - {source-root: ruleset-providers, source: YouTube.yaml, output: Providers/YouTube.list, tag: Provider-YouTube}
-  - {source-root: ruleset-providers, source: Netflix.yaml, output: Providers/Netflix.list, tag: Provider-Netflix}
-  - {source-root: ruleset-providers, source: Bahamut.yaml, output: Providers/Bahamut.list, tag: Provider-Bahamut}
-  - {source-root: ruleset-providers, source: Bilibili.yaml, output: Providers/Bilibili.list, tag: Provider-Bilibili}
-  - {source-root: ruleset-providers, source: BilibiliHMT.yaml, output: Providers/BilibiliHMT.list, tag: Provider-BilibiliHMT}
-  - {source-root: clash-providers, source: ProxyGFWlist.yaml, output: Providers/ProxyGFWlist.list, tag: Provider-ProxyGFWlist}
-  - {source-root: clash-providers, source: ProxyLite.yaml, output: Providers/ProxyLite.list, tag: Provider-ProxyLite}
-  - source: MyRules.yaml
-    tag: Own-MyRules
-    enabled: true
-    update-interval: 86400
+- source: AdRemove.yaml
+  tag: Own-AdRemove
+- source: AppPurification.yaml
+  tag: Own-AppPurification
+- source: User-ruls-direct.yaml
+  tag: Own-User-Direct
+- source: User-ruls-outside.yaml
+  tag: Own-User-Outside
+- source: AI/OpenAI.yaml
+  tag: Own-OpenAI
+- source: AI/Claude.yaml
+  tag: Own-Claude
+- source: AI/GenerativeLanguage.yaml
+  tag: Own-GenerativeLanguage
+- source: AI/Gemini.yaml
+  tag: Own-Gemini
+- source: AI/xAI.yaml
+  tag: Own-xAI
+- source: AI/Cursor.yaml
+  tag: Own-Cursor
+- source: AI/Trae.yaml
+  tag: Own-Trae
+- source: AI/Windsurf.yaml
+  tag: Own-Windsurf
+- source: AI/AugmentCode.yaml
+  tag: Own-AugmentCode
+- source: AI/User-AI-rules.yaml
+  tag: Own-User-AI
+- source: AI/User-AI-TW.yaml
+  tag: Own-User-AI-TW
+- source: Telegram.yaml
+  tag: Own-Telegram
+- source: GoogleFCM.yaml
+  tag: Own-GoogleFCM
+  force-policy: 谷歌FCM
+- source: Google.yaml
+  tag: Own-Google
+- source: Apple.yaml
+  tag: Own-Apple
+- source: Github.yaml
+  tag: Own-Github
+- source: Dropbox.yaml
+  tag: Own-Dropbox
+- source: TikTok.yaml
+  tag: Own-TikTok
+- source: Spotify.yaml
+  tag: Own-Spotify
+- source: NivodTV.yaml
+  tag: Own-NivodTV
+- source: Porn.yaml
+  tag: Own-Porn
+- source: Game.yaml
+  tag: Own-Game
+- source: ChinaMedia.yaml
+  tag: Own-ChinaMedia
+- source: ProxyMedia.yaml
+  tag: Own-ProxyMedia
+- source-root: ruleset-providers
+  source: OneDrive.yaml
+  output: Providers/OneDrive.list
+  tag: Provider-OneDrive
+- source-root: ruleset-providers
+  source: Microsoft.yaml
+  output: Providers/Microsoft.list
+  tag: Provider-Microsoft
+- source-root: ruleset-providers
+  source: NetEaseMusic.yaml
+  output: Providers/NetEaseMusic.list
+  tag: Provider-NetEaseMusic
+- source-root: ruleset-providers
+  source: YouTube.yaml
+  output: Providers/YouTube.list
+  tag: Provider-YouTube
+- source-root: ruleset-providers
+  source: Netflix.yaml
+  output: Providers/Netflix.list
+  tag: Provider-Netflix
+- source-root: ruleset-providers
+  source: Bahamut.yaml
+  output: Providers/Bahamut.list
+  tag: Provider-Bahamut
+- source-root: ruleset-providers
+  source: Bilibili.yaml
+  output: Providers/Bilibili.list
+  tag: Provider-Bilibili
+- source-root: ruleset-providers
+  source: BilibiliHMT.yaml
+  output: Providers/BilibiliHMT.list
+  tag: Provider-BilibiliHMT
+- source-root: clash-providers
+  source: ProxyGFWlist.yaml
+  output: Providers/ProxyGFWlist.list
+  tag: Provider-ProxyGFWlist
+- source-root: clash-providers
+  source: ProxyLite.yaml
+  output: Providers/ProxyLite.list
+  tag: Provider-ProxyLite
+- source: MyRules.yaml
+  tag: Own-MyRules
+  enabled: true
+  update-interval: 86400

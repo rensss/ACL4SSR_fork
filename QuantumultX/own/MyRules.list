@@ -10,8 +10,9 @@ host-keyword,imigrasi,全球直连
 host-suffix,tampermonkey.net,节点选择
 ip-cidr,139.177.207.162/32,OpenAI
 host-suffix,chat-apps.ai,OpenAI
-host,dl.google.com,谷歌FCM
-host-suffix,gate.io,谷歌FCM
+# Historical FCM overrides (commented out to prevent misrouting to 谷歌FCM)
+# - DOMAIN,dl.google.com,谷歌FCM
+# - DOMAIN-SUFFIX,gate.io,谷歌FCM
 host-suffix,bytednsdoc.com,全球直连
 host-suffix,itobsnssdk.com,全球直连
 host-suffix,open-vsx.org,全球直连
@@ -20,25 +21,26 @@ host-suffix,byteoversea.com,全球直连
 host-suffix,zijieapi.com,全球直连
 host-suffix,api2.safedk.com,节点选择
 host-suffix,yandex.com,🇸🇬 select_新加坡节点
-host-suffix,tencent.com,谷歌FCM
+# - DOMAIN-SUFFIX,tencent.com,谷歌FCM # Commented out to prevent domestic Tencent traffic from routing to FCM
 host-suffix,figma.com,节点选择
 host-suffix,flutter.dev,Github
 host-keyword,hsreplay,节点选择
-host-suffix,westus-0.in.applicationinsights.azure.com,谷歌FCM
-host-suffix,codeium.com,谷歌FCM
-host,ai.google.dev,谷歌FCM
-host,alkalimakersuite-pa.clients6.google.com,谷歌FCM
-host,makersuite.google.com,谷歌FCM
-host-suffix,bard.google.com,谷歌FCM
-host-suffix,deepmind.com,谷歌FCM
-host-suffix,deepmind.google,谷歌FCM
-host-suffix,gemini.google.com,谷歌FCM
-host-suffix,generativeai.google,谷歌FCM
-host-suffix,proactivebackend-pa.googleapis.com,谷歌FCM
-host-suffix,apis.google.com,谷歌FCM
-host-keyword,colab,谷歌FCM
-host-keyword,developerprofiles,谷歌FCM
-host-keyword,generativelanguage,谷歌FCM
+# Historical AI to FCM overrides (commented out: managed by AI/Gemini.yaml and User-AI-rules.yaml)
+# - DOMAIN-SUFFIX,westus-0.in.applicationinsights.azure.com,谷歌FCM
+# - DOMAIN-SUFFIX,codeium.com,谷歌FCM
+# - DOMAIN,ai.google.dev,谷歌FCM
+# - DOMAIN,alkalimakersuite-pa.clients6.google.com,谷歌FCM
+# - DOMAIN,makersuite.google.com,谷歌FCM
+# - DOMAIN-SUFFIX,bard.google.com,谷歌FCM
+# - DOMAIN-SUFFIX,deepmind.com,谷歌FCM
+# - DOMAIN-SUFFIX,deepmind.google,谷歌FCM
+# - DOMAIN-SUFFIX,gemini.google.com,谷歌FCM
+# - DOMAIN-SUFFIX,generativeai.google,谷歌FCM
+# - DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com,谷歌FCM
+# - DOMAIN-SUFFIX,apis.google.com,谷歌FCM
+# - DOMAIN-KEYWORD,colab,谷歌FCM
+# - DOMAIN-KEYWORD,developerprofiles,谷歌FCM
+# - DOMAIN-KEYWORD,generativelanguage,谷歌FCM
 host-suffix,pub.dev,节点选择
 host-suffix,moyu.im,节点选择
 host,wtzw.com,全球直连

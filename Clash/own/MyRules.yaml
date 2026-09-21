@@ -10,8 +10,9 @@ payload:
 - DOMAIN-SUFFIX,tampermonkey.net,节点选择
 - IP-CIDR,139.177.207.162/32,OpenAI,no-resolve
 - DOMAIN-SUFFIX,chat-apps.ai,OpenAI
-- DOMAIN,dl.google.com,谷歌FCM
-- DOMAIN-SUFFIX,gate.io,谷歌FCM
+# Historical FCM overrides (commented out to prevent misrouting to 谷歌FCM)
+# - DOMAIN,dl.google.com,谷歌FCM
+# - DOMAIN-SUFFIX,gate.io,谷歌FCM
 - DOMAIN-SUFFIX,bytednsdoc.com,全球直连
 - DOMAIN-SUFFIX,itobsnssdk.com,全球直连
 - DOMAIN-SUFFIX,open-vsx.org,全球直连
@@ -20,25 +21,26 @@ payload:
 - DOMAIN-SUFFIX,zijieapi.com,全球直连
 - DOMAIN-SUFFIX,api2.safedk.com,节点选择
 - DOMAIN-SUFFIX,yandex.com,🇸🇬 select_新加坡节点
-- DOMAIN-SUFFIX,tencent.com,谷歌FCM
+# - DOMAIN-SUFFIX,tencent.com,谷歌FCM # Commented out to prevent domestic Tencent traffic from routing to FCM
 - DOMAIN-SUFFIX,figma.com,节点选择
 - DOMAIN-SUFFIX,flutter.dev,Github
 - DOMAIN-KEYWORD,hsreplay,节点选择
-- DOMAIN-SUFFIX,westus-0.in.applicationinsights.azure.com,谷歌FCM
-- DOMAIN-SUFFIX,codeium.com,谷歌FCM
-- DOMAIN,ai.google.dev,谷歌FCM
-- DOMAIN,alkalimakersuite-pa.clients6.google.com,谷歌FCM
-- DOMAIN,makersuite.google.com,谷歌FCM
-- DOMAIN-SUFFIX,bard.google.com,谷歌FCM
-- DOMAIN-SUFFIX,deepmind.com,谷歌FCM
-- DOMAIN-SUFFIX,deepmind.google,谷歌FCM
-- DOMAIN-SUFFIX,gemini.google.com,谷歌FCM
-- DOMAIN-SUFFIX,generativeai.google,谷歌FCM
-- DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com,谷歌FCM
-- DOMAIN-SUFFIX,apis.google.com,谷歌FCM
-- DOMAIN-KEYWORD,colab,谷歌FCM
-- DOMAIN-KEYWORD,developerprofiles,谷歌FCM
-- DOMAIN-KEYWORD,generativelanguage,谷歌FCM
+# Historical AI to FCM overrides (commented out: managed by AI/Gemini.yaml and User-AI-rules.yaml)
+# - DOMAIN-SUFFIX,westus-0.in.applicationinsights.azure.com,谷歌FCM
+# - DOMAIN-SUFFIX,codeium.com,谷歌FCM
+# - DOMAIN,ai.google.dev,谷歌FCM
+# - DOMAIN,alkalimakersuite-pa.clients6.google.com,谷歌FCM
+# - DOMAIN,makersuite.google.com,谷歌FCM
+# - DOMAIN-SUFFIX,bard.google.com,谷歌FCM
+# - DOMAIN-SUFFIX,deepmind.com,谷歌FCM
+# - DOMAIN-SUFFIX,deepmind.google,谷歌FCM
+# - DOMAIN-SUFFIX,gemini.google.com,谷歌FCM
+# - DOMAIN-SUFFIX,generativeai.google,谷歌FCM
+# - DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com,谷歌FCM
+# - DOMAIN-SUFFIX,apis.google.com,谷歌FCM
+# - DOMAIN-KEYWORD,colab,谷歌FCM
+# - DOMAIN-KEYWORD,developerprofiles,谷歌FCM
+# - DOMAIN-KEYWORD,generativelanguage,谷歌FCM
 - DOMAIN-SUFFIX,pub.dev,节点选择
 - DOMAIN-SUFFIX,moyu.im,节点选择
 - DOMAIN,wtzw.com,全球直连
