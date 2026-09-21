@@ -16,11 +16,12 @@ host-suffix,gvt1.com,direct
 host-suffix,gvt2.com,direct
 host-suffix,gvt3.com,direct
 host-suffix,xn--ngstr-lra8j.com,direct
-host-suffix,youtu.be,direct
-host-suffix,youtube-nocookie.com,direct
-host-suffix,youtube.com,direct
-host-suffix,yt.be,direct
-host-suffix,ytimg.com,direct
+# YouTube dedicated domains (managed exclusively by YouTube.yaml)
+# - DOMAIN-SUFFIX,youtu.be
+# - DOMAIN-SUFFIX,youtube-nocookie.com
+# - DOMAIN-SUFFIX,youtube.com
+# - DOMAIN-SUFFIX,yt.be
+# - DOMAIN-SUFFIX,ytimg.com
 host-keyword,gmail,direct
 host-keyword,google,direct
 ip-cidr,64.233.160.0/19,direct

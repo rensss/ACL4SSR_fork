@@ -557,7 +557,7 @@ host-suffix,nruan.com,direct
 host-suffix,nuomi.com,direct
 host-suffix,onedns.net,direct
 host-suffix,onlinedown.net,direct
-host-suffix,oracle.com,direct
+# - DOMAIN-SUFFIX,oracle.com # Moved to User-ruls-outside.yaml (Foreign Proxy)
 host-suffix,oschina.net,direct
 host-suffix,ourdvs.com,direct
 host-suffix,polyv.net,direct

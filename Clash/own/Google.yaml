@@ -16,11 +16,12 @@ payload:
 - DOMAIN-SUFFIX,gvt2.com
 - DOMAIN-SUFFIX,gvt3.com
 - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
-- DOMAIN-SUFFIX,youtu.be
-- DOMAIN-SUFFIX,youtube-nocookie.com
-- DOMAIN-SUFFIX,youtube.com
-- DOMAIN-SUFFIX,yt.be
-- DOMAIN-SUFFIX,ytimg.com
+# YouTube dedicated domains (managed exclusively by YouTube.yaml)
+# - DOMAIN-SUFFIX,youtu.be
+# - DOMAIN-SUFFIX,youtube-nocookie.com
+# - DOMAIN-SUFFIX,youtube.com
+# - DOMAIN-SUFFIX,yt.be
+# - DOMAIN-SUFFIX,ytimg.com
 - DOMAIN-KEYWORD,gmail
 - DOMAIN-KEYWORD,google
 - IP-CIDR,64.233.160.0/19,no-resolve

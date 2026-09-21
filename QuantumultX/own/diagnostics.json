@@ -330,14 +330,6 @@
     },
     {
       "code": "option-removed",
-      "line": 26,
-      "message": "QX has no equivalent for no-resolve; the option was removed.",
-      "path": "Google.yaml",
-      "rule_type": "IP-CIDR",
-      "severity": "warning"
-    },
-    {
-      "code": "option-removed",
       "line": 27,
       "message": "QX has no equivalent for no-resolve; the option was removed.",
       "path": "Google.yaml",
@@ -419,6 +411,14 @@
     {
       "code": "option-removed",
       "line": 37,
+      "message": "QX has no equivalent for no-resolve; the option was removed.",
+      "path": "Google.yaml",
+      "rule_type": "IP-CIDR",
+      "severity": "warning"
+    },
+    {
+      "code": "option-removed",
+      "line": 38,
       "message": "QX has no equivalent for no-resolve; the option was removed.",
       "path": "Google.yaml",
       "rule_type": "IP-CIDR",
@@ -4650,7 +4650,7 @@
     }
   ],
   "summary": {
-    "converted_rules": 8580,
+    "converted_rules": 8573,
     "generated_files": 39,
     "mapped_rule_sets": 39,
     "skipped_rules": 1,

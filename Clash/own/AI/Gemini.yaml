@@ -3,7 +3,7 @@ payload:
   - DOMAIN,ai.google.dev
   - DOMAIN,alkalimakersuite-pa.clients6.google.com
   - DOMAIN,makersuite.google.com
-  - DOMAIN-SUFFIX,googleapis.com
+  # - DOMAIN-SUFFIX,googleapis.com # Commented out to avoid hijacking all Google APIs (Drive, Play Store, etc.)
   - DOMAIN-SUFFIX,bard.google.com
   - DOMAIN-SUFFIX,deepmind.com
   - DOMAIN-SUFFIX,deepmind.google

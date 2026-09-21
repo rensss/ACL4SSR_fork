@@ -3,7 +3,7 @@
 host,ai.google.dev,direct
 host,alkalimakersuite-pa.clients6.google.com,direct
 host,makersuite.google.com,direct
-host-suffix,googleapis.com,direct
+# - DOMAIN-SUFFIX,googleapis.com # Commented out to avoid hijacking all Google APIs (Drive, Play Store, etc.)
 host-suffix,bard.google.com,direct
 host-suffix,deepmind.com,direct
 host-suffix,deepmind.google,direct
