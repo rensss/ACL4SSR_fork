@@ -134,6 +134,7 @@ host-suffix,agoogleaday.com,direct
 host-suffix,agro.hk,direct
 host-suffix,ai.dev,direct
 host-suffix,ai.studio,direct
+host-suffix,aidc.com.tw,direct
 host-suffix,aihub.top,direct
 host-suffix,aiosearch.com,direct
 host-suffix,aiph.net,direct
@@ -469,6 +470,7 @@ host-suffix,bloomberg.de,direct
 host-suffix,bloombergview.com,direct
 host-suffix,bloomfortune.com,direct
 host-suffix,blubrry.com,direct
+host-suffix,blue-plus.net,direct
 host-suffix,bmdru.com,direct
 host-suffix,bnbstatic.com,direct
 host-suffix,bnext.com.tw,direct
@@ -492,6 +494,7 @@ host-suffix,boxpn.com,direct
 host-wildcard,boxun*.azurewebsites.net,direct
 host-suffix,boxun.com,direct
 host-suffix,boxun.tv,direct
+host-suffix,boylove.cc,direct
 host-suffix,boysmaster.com,direct
 host-suffix,br.st,direct
 host-suffix,braumeister.org,direct
@@ -568,6 +571,7 @@ host-suffix,camfrog.com,direct
 host-suffix,campaign-archive.com,direct
 host-suffix,campaignforuyghurs.org,direct
 host-suffix,cams.com,direct
+host-suffix,cangku.moe,direct
 host-suffix,canva.com,direct
 host-suffix,canyu.org,direct
 host-suffix,caobian.info,direct
@@ -814,6 +818,7 @@ host-suffix,counter.social,direct
 host-suffix,coursehero.com,direct
 host-suffix,covenantswatch.org.tw,direct
 host-suffix,coze.com,direct
+host-suffix,cpc.com.tw,direct
 host-suffix,cpj.org,direct
 host-suffix,cpu-monkey.com,direct
 host-suffix,cq99.us,direct
@@ -836,6 +841,7 @@ host-suffix,crrev.com,direct
 host-suffix,crucial.com,direct
 host-suffix,crunchyroll.com,direct
 host-suffix,cruxpool.com,direct
+host-suffix,csc.com.tw,direct
 host-suffix,csdparty.com,direct
 host-suffix,csis.org,direct
 host-suffix,csmonitor.com,direct
@@ -925,6 +931,7 @@ host-suffix,deviantart.net,direct
 host-suffix,devio.us,direct
 host-suffix,devpn.com,direct
 host-suffix,devv.ai,direct
+host-suffix,dh.net,direct
 host-suffix,diaoyuislands.org,direct
 host-suffix,digiland.tw,direct
 host-suffix,digisfera.com,direct
@@ -1113,6 +1120,7 @@ host-suffix,everipedia.org,direct
 host-suffix,evschool.net,direct
 host-suffix,exchristian.hk,direct
 host-suffix,exhentai.org,direct
+host-suffix,eximbank.com.tw,direct
 host-suffix,exmo.com,direct
 host-suffix,exmormon.org,direct
 host-suffix,expatshield.com,direct
@@ -1770,7 +1778,9 @@ host-suffix,haiwaikan.com,direct
 host-suffix,hakkatv.org.tw,direct
 host-suffix,halktv.com.tr,direct
 host-suffix,hanime.tv,direct
+host-suffix,hanime1.com,direct
 host-suffix,hanime1.me,direct
+host-suffix,hanimeone.me,direct
 host-suffix,hardsextube.com,direct
 host-suffix,hautelook.com,direct
 host-suffix,hautelookcdn.com,direct
@@ -1793,6 +1803,7 @@ host-suffix,helpeachpeople.com,direct
 host-suffix,helpster.de,direct
 host-suffix,hembed.com,direct
 host-suffix,hentai.tv,direct
+host-suffix,hentaiclub.net,direct
 host-suffix,heqinglian.net,direct
 host-suffix,heritage.org,direct
 host-suffix,herokuapp.com,direct
@@ -1938,6 +1949,7 @@ host-suffix,iam.soy,direct
 host-suffix,iask.ca,direct
 host-suffix,iavian.net,direct
 host-suffix,ibvpn.com,direct
+host-suffix,icdf.org.tw,direct
 host-suffix,icedrive.net,direct
 host-suffix,icij.org,direct
 host-suffix,icl-fi.org,direct
@@ -1996,6 +2008,7 @@ host-suffix,indianarrative.com,direct
 host-suffix,indiandefensenews.in,direct
 host-suffix,indiatoday.in,direct
 host-suffix,indiemerch.com,direct
+host-suffix,indsr.org.tw,direct
 host-suffix,inews-api.tvb.com,direct
 host-suffix,info-graf.fr,direct
 host-suffix,infosec.exchange,direct
@@ -2022,6 +2035,7 @@ host-suffix,investigating.wordpress.com,direct
 host-suffix,investing.com,direct
 host-suffix,invidio.us,direct
 host-suffix,inxian.com,direct
+host-suffix,ipac.global,direct
 host-suffix,ipdefenseforum.com,direct
 host-suffix,ipfire.org,direct
 host-suffix,ipfs.4everland.io,direct
@@ -2080,9 +2094,11 @@ host-suffix,japantimes.co.jp,direct
 host-suffix,jav321.com,direct
 host-suffix,javakiba.org,direct
 host-suffix,javbus.com,direct
+host-suffix,javchu.com,direct
 host-suffix,javdb.com,direct
 host-suffix,javfinder.ai,direct
 host-suffix,javfor.me,direct
+host-suffix,javfree.me,direct
 host-suffix,javhub.net,direct
 host-suffix,javhuge.com,direct
 host-suffix,javlibrary.com,direct
@@ -2104,6 +2120,7 @@ host-suffix,jintian.net,direct
 host-suffix,jinx.com,direct
 host-suffix,jitouch.com,direct
 host-suffix,jkb.cc,direct
+host-suffix,jkforum.net,direct
 host-suffix,jma.go.jp,direct
 host-suffix,jmsc.hku.hk,direct
 host-suffix,jmscult.com,direct
@@ -2151,6 +2168,7 @@ host-suffix,kex.com,direct
 host-suffix,keycdn.com,direct
 host-suffix,kfor.com,direct
 host-suffix,khatrimaza.org,direct
+host-suffix,khc.edu.tw,direct
 host-suffix,kichiku-doujinko.com,direct
 host-suffix,kik.com,direct
 host-suffix,killwall.com,direct
@@ -2196,6 +2214,7 @@ host-suffix,lala.im,direct
 host-suffix,lama.com.tw,direct
 host-suffix,lamayeshe.com,direct
 host-suffix,lamnia.co.uk,direct
+host-suffix,landbank.com.tw,direct
 host-suffix,landofhope.tv,direct
 host-suffix,lantern.io,direct
 host-suffix,laogai.org,direct
@@ -2350,6 +2369,7 @@ host-suffix,mastodon.social,direct
 host-suffix,mastodon.xyz,direct
 host-suffix,matainja.com,direct
 host-suffix,material.io,direct
+host-suffix,matichon.co.th,direct
 host-suffix,matome-plus.com,direct
 host-suffix,matome-plus.net,direct
 host-suffix,matrix.org,direct
@@ -2435,11 +2455,14 @@ host-suffix,miningpoolhub.com,direct
 host-suffix,ministrybooks.org,direct
 host-suffix,minzhuzhongguo.org,direct
 host-suffix,miraheze.org,direct
+host-suffix,mirdc.org.tw,direct
 host-suffix,miroguide.com,direct
 host-suffix,mirror.xyz,direct
 host-suffix,mirrorbooks.com,direct
 host-suffix,mirrormedia.mg,direct
+host-suffix,missav.ai,direct
 host-suffix,missav.com,direct
+host-suffix,missav.live,direct
 host-suffix,missav.ws,direct
 host-suffix,mistral.ai,direct
 host-suffix,mitbbs.com,direct
@@ -2463,6 +2486,7 @@ host-suffix,moby.to,direct
 host-suffix,mod.io,direct
 host-suffix,modernchinastudies.org,direct
 host-suffix,moeerolibrary.com,direct
+host-suffix,moeli-desu.com,direct
 host-suffix,moeshare.cc,direct
 host-suffix,mog.com,direct
 host-suffix,mohu.club,direct
@@ -2543,6 +2567,7 @@ host-suffix,national-lottery.co.uk,direct
 host-suffix,nationalawakening.org,direct
 host-suffix,nationalinterest.org,direct
 host-suffix,nationalreview.com,direct
+host-suffix,nationthailand.com,direct
 host-suffix,nationwide.com,direct
 host-suffix,naughtyamerica.com,direct
 host-suffix,naver.com,direct
@@ -2554,6 +2579,7 @@ host-suffix,nbyy.tv,direct
 host-suffix,nchrd.org,direct
 host-suffix,ncn.org,direct
 host-suffix,ndi.org,direct
+host-suffix,ned.org,direct
 host-suffix,nekoslovakia.net,direct
 host-suffix,neo-miracle.com,direct
 host-suffix,neodb.social,direct
@@ -2645,6 +2671,7 @@ host-suffix,npnt.me,direct
 host-suffix,npsboost.com,direct
 host-suffix,nradio.me,direct
 host-suffix,nrk.no,direct
+host-suffix,nstc.org.tw,direct
 host-suffix,ntd.tv,direct
 host-suffix,ntdtv.com,direct
 host-suffix,ntdtv.com.tw,direct
@@ -2882,6 +2909,7 @@ host-suffix,poe.com,direct
 host-suffix,points-media.com,direct
 host-suffix,pokerstars.com,direct
 host-suffix,pokerstars.net,direct
+host-suffix,poland.tw,direct
 host-suffix,politicalchina.org,direct
 host-suffix,poloniex.com,direct
 host-suffix,polymarket.com,direct
@@ -2977,6 +3005,7 @@ host-suffix,qianglie.com,direct
 host-suffix,qiangwaikan.com,direct
 host-suffix,qiangyou.org,direct
 host-suffix,qianmo.tw,direct
+host-suffix,qingse.one,direct
 host-suffix,qiwen.lu,direct
 host-suffix,qmp4.com,direct
 host-suffix,qobuz.com,direct
@@ -3079,6 +3108,7 @@ host-suffix,roc-taiwan.org,direct
 host-suffix,rocket-inc.net,direct
 host-suffix,rocket.chat,direct
 host-suffix,rocksdb.org,direct
+host-suffix,rocmgov.org,direct
 host-suffix,rojo.com,direct
 host-suffix,rolfoundation.org,direct
 host-suffix,rolia.net,direct
@@ -3480,6 +3510,7 @@ host-suffix,tew.org,direct
 host-suffix,textnow.com,direct
 host-suffix,textnow.me,direct
 host-suffix,tfc-taiwan.org.tw,direct
+host-suffix,tfd.org.tw,direct
 host-suffix,tfhub.dev,direct
 host-suffix,tfiflve.com,direct
 host-suffix,tg-me.com,direct
@@ -3673,6 +3704,7 @@ host-suffix,tryai.dev,direct
 host-suffix,tryheart.jp,direct
 host-suffix,tsdr.uspto.gov,direct
 host-suffix,tt1069.com,direct
+host-suffix,ttl.com.tw,direct
 host-suffix,tttan.com,direct
 host-suffix,ttv.com.tw,direct
 host-suffix,ttvnw.net,direct
@@ -3725,6 +3757,7 @@ host-suffix,tweetwally.com,direct
 host-suffix,tweez.net,direct
 host-suffix,twelve.today,direct
 host-suffix,twerkingbutt.com,direct
+host-suffix,twfhcsec.com.tw,direct
 host-suffix,twftp.org,direct
 host-suffix,twgov.tw,direct
 host-suffix,twgreatdaily.com,direct
@@ -3766,6 +3799,7 @@ host-suffix,twt.tl,direct
 host-suffix,twtkr.com,direct
 host-suffix,twttr.com,direct
 host-suffix,tx.me,direct
+host-suffix,tybio.com.tw,direct
 host-suffix,tycool.com,direct
 host-suffix,typepad.com,direct
 host-suffix,typeset.io,direct
@@ -3954,6 +3988,7 @@ host-suffix,vpsxb.net,direct
 host-suffix,vrchat.com,direct
 host-suffix,vrporn.com,direct
 host-suffix,vrsmash.com,direct
+host-suffix,vscc.org.tw,direct
 host-suffix,vtunnel.com,direct
 host-suffix,vultryhw.com,direct
 host-suffix,w-pool.com,direct
@@ -4194,6 +4229,7 @@ host-suffix,xvideos-cdn.com,direct
 host-suffix,xvideos.com,direct
 host-suffix,xvideos.es,direct
 host-suffix,xvinlink.com,direct
+host-suffix,xx.net,direct
 host-suffix,xxx.com,direct
 host-suffix,xxx.xxx,direct
 host-suffix,xxxx.com.au,direct
