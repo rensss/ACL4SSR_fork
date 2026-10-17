@@ -63,6 +63,7 @@ host-suffix,6parkbbs.com,direct
 host-suffix,6parker.com,direct
 host-suffix,6parknews.com,direct
 host-suffix,7capture.com,direct
+host-suffix,7x24hrs.com,direct
 host-suffix,8-d.com,direct
 host-suffix,85cc.us,direct
 host-suffix,881903.com,direct
@@ -2413,7 +2414,9 @@ host-suffix,meridian-trust.org,direct
 host-suffix,meripet.com,direct
 host-suffix,merit-times.com.tw,direct
 host-suffix,messenger.com,direct
+host-suffix,meta.ai,direct
 host-suffix,meta.com,direct
+host-suffix,metaaivm.com,direct
 host-suffix,metafilter.com,direct
 host-suffix,metamask.io,direct
 host-suffix,metart.com,direct
