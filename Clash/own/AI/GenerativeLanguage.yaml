@@ -1,4 +1,4 @@
 payload:
   # 内容：GenerativeLanguage
-  # 数量：1条
+  # [Note: Consolidated into Gemini.yaml for unified Gemini & Vertex AI routing; preserved for backward compatibility]
   - DOMAIN-SUFFIX,generativelanguage.googleapis.com

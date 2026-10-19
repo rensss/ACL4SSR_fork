@@ -1,17 +1,24 @@
 # Generated from Clash/own/AI/Gemini.yaml. Do not edit.
-# >> Gemini
-host,ai.google.dev,direct
-host,alkalimakersuite-pa.clients6.google.com,direct
-host,makersuite.google.com,direct
-# - DOMAIN-SUFFIX,googleapis.com # Commented out to avoid hijacking all Google APIs (Drive, Play Store, etc.)
-host-suffix,bard.google.com,direct
-host-suffix,deepmind.com,direct
-host-suffix,deepmind.google,direct
+# >> Gemini & Vertex AI (Unified Google AI Suite)
+# [Vertex AI / GCP API for Hermes Agent]
+host-suffix,aiplatform.googleapis.com,direct
+# [Google AI Studio & Gemini Native API]
+host-suffix,generativelanguage.googleapis.com,direct
+host-keyword,generativelanguage,direct
+# [Gemini Web & Consumer Products]
 host-suffix,gemini.google.com,direct
 host-suffix,gemini.gstatic.com,direct
+host-suffix,bard.google.com,direct
 host-suffix,generativeai.google,direct
+host-suffix,deepmind.com,direct
+host-suffix,deepmind.google,direct
+# [Developer Platforms & Consoles]
+host,ai.google.dev,direct
+host,makersuite.google.com,direct
+host,alkalimakersuite-pa.clients6.google.com,direct
 host-suffix,proactivebackend-pa.googleapis.com,direct
-host-suffix,apis.google.com,direct
 host-keyword,colab,direct
 host-keyword,developerprofiles,direct
-host-keyword,generativelanguage,direct
+# [Original lines preserved for historical reference]:
+# - DOMAIN-SUFFIX,googleapis.com # Commented out to avoid hijacking all Google APIs (Drive, Play Store, etc.)
+host-suffix,apis.google.com,direct
