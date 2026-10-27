@@ -1,7 +1,9 @@
 payload:
 # >> Gemini & Vertex AI (Unified Google AI Suite)
-  # [Vertex AI / GCP API for Hermes Agent]
+  # [Vertex AI / GCP API & Authentication for Hermes Agent]
   - DOMAIN-SUFFIX,aiplatform.googleapis.com
+  - DOMAIN,oauth2.googleapis.com
+  - DOMAIN,accounts.google.com
 
   # [Google AI Studio & Gemini Native API]
   - DOMAIN-SUFFIX,generativelanguage.googleapis.com
