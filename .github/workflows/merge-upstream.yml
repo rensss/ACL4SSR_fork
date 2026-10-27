@@ -27,21 +27,76 @@ jobs:
           git fetch upstream
 
       - name: Merge upstream/master into current branch
+        id: merge
         run: |
-          # 1. 尝试以 --no-commit 方式进行合并
-          git merge upstream/master --allow-unrelated-histories --no-commit -m "Merge upstream" || {
-            echo "合并遇到冲突，尝试自动恢复或报错..."
-            exit 1
-          }
-          
-          # 2. 如果检测到有 .github/workflows/ 目录中的文件变动，则将其恢复为 HEAD 状态，避免因 GITHUB_TOKEN 无 workflow 权限而导致推送失败
+          if git merge upstream/master --allow-unrelated-histories --no-commit -m "Merge upstream"; then
+            echo "mrs_conflicts=false" >> "$GITHUB_OUTPUT"
+          else
+            mapfile -t conflicts < <(git diff --name-only --diff-filter=U)
+            if [ "${#conflicts[@]}" -eq 0 ]; then
+              echo "合并失败，但没有可自动处理的文件冲突。"
+              exit 1
+            fi
+
+            for file in "${conflicts[@]}"; do
+              if [[ ! "$file" =~ ^Clash/mrs/[^/]+\.mrs$ ]]; then
+                echo "发现非 MRS 文件冲突，停止自动同步：$file"
+                exit 1
+              fi
+            done
+
+            echo "只检测到 Clash/mrs 下的二进制规则文件冲突，将从合并后的规则源重建。"
+            echo "mrs_conflicts=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Set up Python for MRS regeneration
+        if: steps.merge.outputs.mrs_conflicts == 'true'
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.x'
+
+      - name: Download mihomo for MRS regeneration
+        if: steps.merge.outputs.mrs_conflicts == 'true'
+        run: |
+          set -euo pipefail
+          MAX_RETRIES=5
+          RETRY_DELAY=10
+          for ((i=1; i<=MAX_RETRIES; i++)); do
+            echo "Attempt $i/$MAX_RETRIES to download mihomo..."
+            if TAG=$(curl -fsSL https://api.github.com/repos/MetaCubeX/mihomo/releases/latest | python -c 'import json,sys; print(json.load(sys.stdin)["tag_name"])'); then
+              echo "Latest mihomo version: $TAG"
+              if curl -L --fail -o mihomo.gz "https://github.com/MetaCubeX/mihomo/releases/download/${TAG}/mihomo-linux-amd64-${TAG}.gz"; then
+                if gzip -d mihomo.gz; then
+                  chmod +x mihomo
+                  echo "mihomo is ready"
+                  exit 0
+                fi
+              fi
+            fi
+            if [ "$i" -lt "$MAX_RETRIES" ]; then
+              echo "Retrying in $RETRY_DELAY seconds..."
+              sleep "$RETRY_DELAY"
+            fi
+          done
+          echo "ERROR: Failed to download mihomo"
+          exit 1
+
+      - name: Regenerate conflicted MRS files
+        if: steps.merge.outputs.mrs_conflicts == 'true'
+        run: |
+          mapfile -t conflicts < <(git diff --name-only --diff-filter=U)
+          python scripts/rebuild_mrs.py "${conflicts[@]}"
+          git add -- "${conflicts[@]}"
+
+      - name: Keep local workflows and commit merge
+        run: |
+          # Keep local workflow files to avoid requiring workflow permission on GITHUB_TOKEN.
           if git diff --cached --name-only | grep -q "^\.github/workflows/"; then
             echo "检测到 Upstream 更新了工作流文件！正在将其恢复为本地版本以避免推送权限错误..."
             git checkout HEAD -- .github/workflows/
           fi
-          
-          # 3. 提交合并
-          git commit -m "Merge upstream (automatically resolved and kept local workflows)" || echo "没有需要提交的变更"
+
+          git commit -m "Merge upstream (rebuilt MRS artifacts and kept local workflows)" || echo "没有需要提交的变更"
 
       - name: Push to origin
         run: |
