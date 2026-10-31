@@ -208,6 +208,7 @@ host-suffix,anonfiles.com,direct
 host-suffix,anonymouse.org,direct
 host-suffix,antd.org,direct
 host-suffix,anthonycalzadilla.com,direct
+host-suffix,anthropic.auth0.com,direct
 host-suffix,anthropic.com,direct
 host-suffix,antiwave.net,direct
 host-suffix,antpool.com,direct
@@ -515,6 +516,7 @@ host-suffix,broadpressinc.com,direct
 host-suffix,brookings.edu,direct
 host-suffix,brutaltgp.com,direct
 host-suffix,bsky.app,direct
+host-suffix,bsky.chat,direct
 host-suffix,bsky.network,direct
 host-suffix,bsky.social,direct
 host-suffix,bt4g.org,direct
@@ -742,7 +744,10 @@ host-suffix,ck101.com,direct
 host-suffix,clashyun.com,direct
 host-suffix,classicalguitarblog.net,direct
 host-suffix,claude.ai,direct
+host-suffix,claude.app,direct
 host-suffix,claude.com,direct
+host-suffix,claudemcpcontent.com,direct
+host-suffix,claudeusercontent.com,direct
 host-suffix,cldr.unicode.org,direct
 host-suffix,clearsurance.com,direct
 host-suffix,clementine-player.org,direct
