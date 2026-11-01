@@ -232,6 +232,7 @@ host-suffix,api.pureapk.com,direct
 host-suffix,api.recaptcha.net,direct
 host-suffix,api.shuaiapi.com,direct
 host-suffix,api.steampowered.com,direct
+host-suffix,api.themoviedb.org,direct
 host-suffix,apiary.io,direct
 host-suffix,apigee.com,direct
 host-suffix,apk.support,direct
@@ -3695,6 +3696,7 @@ host-suffix,torlock.com,direct
 host-suffix,torproject.org,direct
 host-suffix,torrentgalaxy.to,direct
 host-suffix,torrentkitty.tv,direct
+host-suffix,torrentleech.org,direct
 host-suffix,torrentprivacy.com,direct
 host-suffix,torrentproject.se,direct
 host-suffix,torrenty.org,direct
@@ -4303,6 +4305,7 @@ host-suffix,youtubeeducation.com,direct
 host-suffix,youtubegaming.com,direct
 host-suffix,youtubekids.com,direct
 host-suffix,youversion.com,direct
+host-suffix,youversionapi.com,direct
 host-suffix,youwin.com,direct
 host-suffix,youxu.info,direct
 host-suffix,yt.be,direct
