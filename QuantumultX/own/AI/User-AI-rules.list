@@ -1,5 +1,7 @@
 # Generated from Clash/own/AI/User-AI-rules.yaml. Do not edit.
 # >> User-AI-rules
+host,console.typesafe.ai,direct
+host,api.typesafe.ai,direct
 host,typesafe.ai,direct
 host,th.bing.com,direct
 host,www.bingapis.com,direct
