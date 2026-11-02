@@ -1,5 +1,7 @@
 payload:
 # >> User-AI-rules
+  - DOMAIN,console.typesafe.ai
+  - DOMAIN,api.typesafe.ai
   - DOMAIN,typesafe.ai
   - DOMAIN,th.bing.com
   - DOMAIN,www.bingapis.com
