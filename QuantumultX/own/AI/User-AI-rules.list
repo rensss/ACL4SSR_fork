@@ -1,6 +1,7 @@
 # Generated from Clash/own/AI/User-AI-rules.yaml. Do not edit.
 # >> User-AI-rules
 # 数量：41条
+host,typesafe.ai,direct
 host,th.bing.com,direct
 host,www.bingapis.com,direct
 host,sapphire.api.microsoftapp.net,direct
