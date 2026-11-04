@@ -1,4 +1,5 @@
 # Generated from Clash/own/User-ruls-outside.yaml. Do not edit.
+host-suffix,appstoreprice.org,direct
 host-suffix,npmjs.org,direct
 host-suffix,jio.com,direct
 host-suffix,bbc.com,direct
