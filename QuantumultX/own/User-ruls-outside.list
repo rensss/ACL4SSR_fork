@@ -25,7 +25,6 @@ host,dl.inmobi.com,direct
 host-suffix,gkd.li,direct
 host-suffix,suno.ai,direct
 host-suffix,v2rayssr.com,direct
-# - DOMAIN-KEYWORD,gstatic # 注释掉宽泛关键词，避免劫持 gemini.gstatic.com 及 Google 规则集
 host-suffix,amytele.co,direct
 host-suffix,amytele.net,direct
 host-suffix,amysecure.com,direct
@@ -76,6 +75,7 @@ host,gpt.aide.freespaces.app,direct
 host-suffix,cryptomus.com,direct
 host-suffix,pypi.org,direct
 host-suffix,pythonhosted.org,direct
+ip-cidr,34.60.42.107/32,direct
 ip-cidr,13.32.0.0/15,direct
 ip-cidr,13.35.0.0/17,direct
 ip-cidr,18.184.0.0/15,direct
