@@ -1026,6 +1026,7 @@ host-suffix,dt18.com,direct
 host-suffix,dtiblog.com,direct
 host-suffix,dtic.mil,direct
 host-suffix,dubox.com,direct
+host-suffix,duck.ai,direct
 host-suffix,duck.com,direct
 host-suffix,duckduckgo.com,direct
 host-suffix,duckmylife.com,direct
@@ -1377,9 +1378,9 @@ host-suffix,gab.com,direct
 host-suffix,gabocorp.com,direct
 host-suffix,gagaoolala.com,direct
 host-suffix,galenwu.com,direct
-host-suffix,game735.com,direct
 host-suffix,gamer.com.tw,direct
 host-suffix,gamez.com.tw,direct
+host-suffix,gamma.app,direct
 host-suffix,ganjing.com,direct
 host-suffix,ganjingworld.com,direct
 host-suffix,gaoming.net,direct
@@ -3339,6 +3340,7 @@ host-suffix,sosreader.com,direct
 host-suffix,sotwe.com,direct
 host-suffix,soubory.com,direct
 host-suffix,soulcaliburhentai.net,direct
+host-suffix,soulogic.com,direct
 host-suffix,soundcloud.com,direct
 host-suffix,soundofhope.org,direct
 host-suffix,soundon.fm,direct
