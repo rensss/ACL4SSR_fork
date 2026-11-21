@@ -768,7 +768,9 @@ host-suffix,clyp.it,direct
 host-suffix,cmcn.org,direct
 host-suffix,cmegroup.com,direct
 host-suffix,cmi.org.tw,direct
+host-suffix,cmmedia.com.tw,direct
 host-suffix,cmoinc.org,direct
+host-suffix,cmoney.tw,direct
 host-suffix,cms.gov,direct
 host-suffix,cmule.com,direct
 host-suffix,cmx.im,direct
@@ -783,6 +785,7 @@ host-suffix,cnbeta.com.tw,direct
 host-suffix,cnd.org,direct
 host-suffix,cnnews.chosun.com,direct
 host-suffix,cnpolitics.org,direct
+host-suffix,cnyes.com,direct
 host-suffix,co.ng.mil,direct
 host-suffix,coat.co.jp,direct
 host-suffix,cobinhood.com,direct
@@ -1052,6 +1055,7 @@ host-suffix,e-classical.com.tw,direct
 host-suffix,e-gold.com,direct
 host-suffix,e-hentai.org,direct
 host-suffix,e-hentaidb.com,direct
+host-suffix,e-info.org.tw,direct
 host-suffix,e-zone.com.hk,direct
 host-suffix,e123.hk,direct
 host-suffix,e621.net,direct
@@ -1756,6 +1760,7 @@ host-suffix,greatfire.org,direct
 host-suffix,greatfire.us7.list-manage.com,direct
 host-suffix,greatfirevpn.com,direct
 host-suffix,greatfirewallofchina.org,direct
+host-suffix,greenbean.media,direct
 host-suffix,greenpeace.org,direct
 host-suffix,greenvpn.net,direct
 host-suffix,grindr.com,direct
@@ -1855,13 +1860,16 @@ host-suffix,hka8964.wordpress.com,direct
 host-suffix,hkanews.wordpress.com,direct
 host-suffix,hkbookcity.com,direct
 host-suffix,hkchronicles.com,direct
+host-suffix,hkcitycreation.com,direct
 host-suffix,hkcnews.com,direct
 host-suffix,hkcoc.com,direct
 host-suffix,hkcoc.weather.com.hk,direct
+host-suffix,hkcourtnews.com,direct
 host-suffix,hkdc.us,direct
 host-suffix,hkej.com,direct
 host-suffix,hket.com,direct
 host-suffix,hkfaa.com,direct
+host-suffix,hkfeature.com,direct
 host-suffix,hkgalden.com,direct
 host-suffix,hkgolden.com,direct
 host-suffix,hkgpao.com,direct
@@ -2272,6 +2280,7 @@ host-suffix,library-access.sk,direct
 host-suffix,library.usc.cuhk.edu.hk,direct
 host-suffix,libredd.it,direct
 host-suffix,lifemiles.com,direct
+host-suffix,lifesitenews.com,direct
 host-suffix,lighten.org.tw,direct
 host-suffix,lighti.me,direct
 host-suffix,lightnovel.cn,direct
@@ -2280,6 +2289,7 @@ host-suffix,lih.kg,direct
 host-suffix,lihkg.com,direct
 host-suffix,like.com,direct
 host-suffix,lilaoshibushinilaoshi.com,direct
+host-suffix,limedia.tw,direct
 host-suffix,line-apps.com,direct
 host-suffix,line-scdn.net,direct
 host-suffix,line.me,direct
@@ -2376,6 +2386,7 @@ host-suffix,marxist.net,direct
 host-suffix,marxists.org,direct
 host-suffix,mas.to,direct
 host-suffix,mash.to,direct
+host-suffix,master-insight.com,direct
 host-suffix,mastodon.cloud,direct
 host-suffix,mastodon.host,direct
 host-suffix,mastodon.online,direct
@@ -2391,6 +2402,7 @@ host-suffix,matters.news,direct
 host-suffix,matters.town,direct
 host-suffix,matthewdgreen.wordpress.com,direct
 host-suffix,mattwilcox.net,direct
+host-suffix,mc.yandex.ru,direct
 host-suffix,mcadforums.com,direct
 host-suffix,mcaf.ee,direct
 host-suffix,mceindex.com,direct
@@ -2512,6 +2524,7 @@ host-suffix,momoshop.com.tw,direct
 host-suffix,mondex.org,direct
 host-suffix,money-link.com.tw,direct
 host-suffix,moneydj.com,direct
+host-suffix,moneynet.com.tw,direct
 host-suffix,monica.im,direct
 host-suffix,monitorchina.org,direct
 host-suffix,monlamit.org,direct
@@ -2552,6 +2565,7 @@ host-suffix,muzi.com,direct
 host-suffix,muzi.net,direct
 host-suffix,muzu.tv,direct
 host-suffix,mvg.jp,direct
+host-suffix,my-formosa.com.tw,direct
 host-suffix,my-private-network.co.uk,direct
 host-suffix,my.pcloud.com,direct
 host-suffix,myaudiocast.com,direct
@@ -2635,6 +2649,7 @@ host-suffix,newtalk.tw,direct
 host-suffix,newthuhole.com,direct
 host-suffix,newyorker.com,direct
 host-suffix,nexon.com,direct
+host-suffix,nextapple.com,direct
 host-suffix,nextdigital.com.hk,direct
 host-suffix,nexton-net.jp,direct
 host-suffix,nexttv.com.tw,direct
@@ -2831,6 +2846,7 @@ host-suffix,parse.com,direct
 host-suffix,parsevideo.com,direct
 host-suffix,partnerstack.xyz,direct
 host-suffix,passion.com,direct
+host-suffix,passiontimes.hk,direct
 host-suffix,paste.ee,direct
 host-suffix,pastie.org,direct
 host-suffix,patreon.com,direct
@@ -3008,6 +3024,7 @@ host-suffix,ptwxz.com,direct
 host-suffix,pubu.com.tw,direct
 host-suffix,puffinbrowser.com,direct
 host-suffix,pullfolio.co,direct
+host-suffix,pulsehknews.com,direct
 host-suffix,pure18.com,direct
 host-suffix,pureconcepts.net,direct
 host-suffix,pureinsight.org,direct
@@ -3234,6 +3251,7 @@ host-suffix,shadowsocks.be,direct
 host-suffix,shadowsocks.com.hk,direct
 host-suffix,shadowsocks.org,direct
 host-suffix,shahit.biz,direct
+host-suffix,shanghainationalparty.com,direct
 host-suffix,share-videos.se,direct
 host-suffix,share.america.gov,direct
 host-suffix,sharecool.org,direct
@@ -3273,6 +3291,7 @@ host-suffix,sinchew.com.my,direct
 host-suffix,sing-box.sagernet.org,direct
 host-suffix,singaporepools.com.sg,direct
 host-suffix,singlelogin.se,direct
+host-suffix,singpao.com.hk,direct
 host-suffix,singtao.com,direct
 host-suffix,singtaousa.com,direct
 host-suffix,sinoants.com,direct
@@ -3485,6 +3504,7 @@ host-suffix,taiwanjustice.net,direct
 host-suffix,taiwanncf.org.tw,direct
 host-suffix,taiwannews.com.tw,direct
 host-suffix,taiwanonline.cc,direct
+host-suffix,taiwantoday.tw,direct
 host-suffix,taiwantt.org.tw,direct
 host-suffix,talkatone.com,direct
 host-suffix,talkboxapp.com,direct
@@ -3549,6 +3569,7 @@ host-suffix,thebodyshop-usa.com,direct
 host-suffix,thecenter.mit.edu,direct
 host-suffix,thechasernews.co.uk,direct
 host-suffix,thechinacollection.org,direct
+host-suffix,thecollectivehk.com,direct
 host-suffix,theconversation.com,direct
 host-suffix,thedalailamamovie.com,direct
 host-suffix,thediplomat.com,direct
@@ -3564,18 +3585,22 @@ host-suffix,thehun.net,direct
 host-suffix,theinitium.com,direct
 host-suffix,theintercept.com,direct
 host-suffix,thenewslens.com,direct
+host-suffix,theonlinecitizen.com,direct
 host-suffix,thepiratebay.org,direct
 host-suffix,theporndude.com,direct
 host-suffix,theportalwiki.com,direct
 host-suffix,theprint.in,direct
 host-suffix,thesaturdaypaper.com.au,direct
+host-suffix,thestandard.com.hk,direct
 host-suffix,thestandnews.com,direct
+host-suffix,thestar.com,direct
 host-suffix,thetatoken.org,direct
 host-suffix,thetibetpost.com,direct
 host-suffix,thetvdb.com,direct
 host-suffix,theweek.com,direct
 host-suffix,thewgo.org,direct
 host-suffix,thewirechina.com,direct
+host-suffix,thewitnesshk.com,direct
 host-suffix,theync.com,direct
 host-suffix,thinkchina.sg,direct
 host-suffix,thinkgeek.com,direct
@@ -4147,6 +4172,7 @@ host-suffix,wo3ttt.wordpress.com,direct
 host-suffix,woeser.com,direct
 host-suffix,wokar.org,direct
 host-suffix,wolfax.com,direct
+host-suffix,womany.net,direct
 host-suffix,wombo.ai,direct
 host-suffix,woolyss.com,direct
 host-suffix,woopie.jp,direct
